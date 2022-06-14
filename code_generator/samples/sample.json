@@ -1,0 +1,26 @@
+{
+  "locust_config": {
+    "swarm": 10.0,
+    "spawn": 100.0
+  },
+  "users": {
+    "websiteuser": {
+      "type": "httpuser",
+      "wait_time": "between(5,10)",
+      "host": "https://google.com",
+      "tasks": [
+        {
+          "action": "post",
+          "data": "/submit/form",
+          "name": "visit_homepage"
+        }
+      ]
+    },
+    "anotheruser": {
+      "type": "user",
+      "wait_time": "between(5,10)",
+      "host": "https://twitter.com",
+      "tasks": []
+    }
+  }
+}
