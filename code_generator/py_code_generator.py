@@ -1,31 +1,96 @@
+# PERF_VARIABLE = {
+#   "locust_config": {
+#     "swarm": 10.0,
+#     "spawn": 100.0
+#   },
+#   "users": {
+#     "websiteuser": {
+#       "type": "httpuser",
+#       "wait_time": "between(5,10)",
+#       "host": "https://google.com",
+#       "tasks": [
+#         {
+#           "action": "post",
+#           "data": "/submit/form",
+#           "name": "visit_homepage"
+#         },
+#         {
+#           "action": "get",
+#           "data": "/submit/form",
+#           "name": "just_homepage"
+#         }
+#       ]
+#     },
+#     "anotheruser": {
+#       "type": "user",
+#       "wait_time": "between(5,10)",
+#       "host": "https://twitter.com",
+#       "tasks": []
+#     }
+#   }
+# }
+
 PERF_VARIABLE = {
   "locust_config": {
-    "swarm": 10.0,
-    "spawn": 100.0
+    "swarm": "10",
+    "spawn": "100"
   },
-  "users": {
-    "websiteuser": {
-      "type": "httpuser",
-      "wait_time": "between(5,10)",
-      "host": "https://google.com",
+  "task_sets": [
+    {
+      "task_set_name": "TaskSet1",
+      "sequential": True,
       "tasks": [
         {
-          "action": "post",
+          "action": "get",
           "data": "/submit/form",
-          "name": "visit_homepage"
+          "name": "WebsiteUser"
         },
         {
           "action": "get",
           "data": "/submit/form",
-          "name": "just_homepage"
+          "name": "WebsiteUser"
         }
+
       ]
     },
-    "anotheruser": {
-      "type": "user",
+    {
+      "task_set_name": "TaskSet2",
+      "sequential": False,
+      "tasks": [
+        {
+          "action": "get",
+          "data": "/submit/form",
+          "name": "WebsiteUser"
+        },
+        {
+          "action": "get",
+          "data": "/submit/form",
+          "name": "WebsiteUser"
+        }
+
+      ]
+    }
+  ],
+  "users": {
+    "WebsiteUser": {
+      "type": "HttpUser",
+      "wait_time": "between(5,10)",
+      "host": "https://google.com",
+      "task_sets": ["TaskSet1", "TaskSet2"],
+      "tasks": []
+    },
+    "AnotherUser": {
+      "type": "USER",
       "wait_time": "between(5,10)",
       "host": "https://twitter.com",
-      "tasks": []
+      "task_sets": ["TaskSet1"],
+      "tasks": [
+        {
+          "action": "get",
+          "data": "/submit/form",
+          "name": "WebsiteUser"
+        }
+      ]
     }
   }
 }
