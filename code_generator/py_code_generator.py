@@ -233,6 +233,7 @@ PERF_VARIABLE = {
   }
 }
 
+import os
 from jinja2 import Environment, FileSystemLoader
 
 # Load template file
@@ -245,5 +246,5 @@ print(output)
 # output_file.write(output)
 # output_file.close()
 
-with open("output_python_file_1.py", "w") as output_file:
+with open(f"{os.getcwd()}{os.sep}locust_file{os.sep}output_python_file_2.py", "w") as output_file:
   output_file.write(output)
