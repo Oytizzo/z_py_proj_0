@@ -16,7 +16,9 @@ class {{ task_set.task_set_name }}({{ "SequentialTaskSet" if task_set.sequential
 class {{user}}({{PERF_VARIABLE.users[user].type}}):
     host = "{{PERF_VARIABLE.users[user].host}}"
     wait_time = {{PERF_VARIABLE.users[user].wait_time}}
+    {% if PERF_VARIABLE.users[user].task_sets %}
     tasks = {{ PERF_VARIABLE.users[user].task_sets }}
+    {% endif %}
     {% for task in  PERF_VARIABLE.users[user].tasks%}
     @task
     def {{ task.name }}(self):{% if task.action == "post" %}
