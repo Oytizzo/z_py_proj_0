@@ -246,5 +246,5 @@ print(output)
 # output_file.write(output)
 # output_file.close()
 
-with open(f"{os.getcwd()}{os.sep}locust_file{os.sep}output_python_file_2.py", "w") as output_file:
+with open(f"{os.getcwd()}{os.sep}locust_file{os.sep}output_python_file_3.py", "w") as output_file:
   output_file.write(output)
