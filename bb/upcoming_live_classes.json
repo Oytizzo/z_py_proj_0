@@ -1,0 +1,34 @@
+{
+  "data": {
+    "teacher": "Teacher Dec",
+    "teacherID": 1538,
+    "roomID": "109_062320220500",
+    "lstTeacherUpcomingLiveClass": [
+      {
+        "classScheduledDate": "2022-06-23T00:00:00",
+        "time": "5:00 AM",
+        "students": [
+          {
+            "studentName": "Wed inactive",
+            "studentID": 118761,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375215,
+                "subject": "English",
+                "subjectWeek": "4-D",
+                "subjectLevel": "Level F1",
+                "startTime": "5:00 AM",
+                "endTime": "5:30 AM",
+                "test": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}
