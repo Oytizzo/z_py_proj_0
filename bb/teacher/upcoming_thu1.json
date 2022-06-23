@@ -1,0 +1,59 @@
+{
+  "data": {
+    "teacher": "Teacher Dec",
+    "teacherID": 1538,
+    "roomID": "109_062320220700",
+    "lstTeacherUpcomingLiveClass": [
+      {
+        "classScheduledDate": "2022-06-23T00:00:00",
+        "time": "7:00 AM",
+        "students": [
+          {
+            "studentName": "Thu1 Dec",
+            "studentID": 118723,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14374931,
+                "subject": "English",
+                "subjectWeek": "6-F",
+                "subjectLevel": "Level H1",
+                "startTime": "7:00 AM",
+                "endTime": "7:30 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "Thu2 Dec",
+            "studentID": 118724,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14374984,
+                "subject": "English",
+                "subjectWeek": "7-G",
+                "subjectLevel": "Level I1",
+                "startTime": "7:00 AM",
+                "endTime": "7:30 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 14374958,
+                "subject": "Math",
+                "subjectWeek": "6-F",
+                "subjectLevel": "Level 4",
+                "startTime": "7:30 AM",
+                "endTime": "8:00 AM",
+                "test": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}

@@ -1,0 +1,100 @@
+{
+  "data": {
+    "teacher": "Teacher Dec",
+    "teacherID": 1538,
+    "roomID": "109_062320220600",
+    "lstTeacherUpcomingLiveClass": [
+      {
+        "classScheduledDate": "2022-06-23T00:00:00",
+        "time": "6:00 AM",
+        "students": [
+          {
+            "studentName": "thu6 testing",
+            "studentID": 118762,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375241,
+                "subject": "English",
+                "subjectWeek": "5-E",
+                "subjectLevel": "Level F1",
+                "startTime": "6:00 AM",
+                "endTime": "6:30 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 14375264,
+                "subject": "Math",
+                "subjectWeek": "6-F",
+                "subjectLevel": "Level 0A",
+                "startTime": "6:30 AM",
+                "endTime": "7:00 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "thu7 testing",
+            "studentID": 118763,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375290,
+                "subject": "English",
+                "subjectWeek": "4-D",
+                "subjectLevel": "Level F1",
+                "startTime": "6:00 AM",
+                "endTime": "6:30 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "thu9 testing",
+            "studentID": 118765,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375340,
+                "subject": "English",
+                "subjectWeek": "6-F",
+                "subjectLevel": "Level G1",
+                "startTime": "6:00 AM",
+                "endTime": "6:30 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 14375362,
+                "subject": "Math",
+                "subjectWeek": "7-G",
+                "subjectLevel": "Level 2",
+                "startTime": "6:30 AM",
+                "endTime": "7:00 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "thu8 testing",
+            "studentID": 118764,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375315,
+                "subject": "Math",
+                "subjectWeek": "5-E",
+                "subjectLevel": "Level 0B",
+                "startTime": "6:30 AM",
+                "endTime": "7:00 AM",
+                "test": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}
