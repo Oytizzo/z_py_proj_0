@@ -20,3 +20,4 @@ if __name__ == "__main__":
     print(BB_DIR.resolve())
     print(str(BB_DIR.resolve()))
     print(type(BB_DIR.resolve()))
+    print(type(str(BB_DIR.resolve())))
