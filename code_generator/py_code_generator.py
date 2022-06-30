@@ -233,18 +233,42 @@ PERF_VARIABLE = {
   }
 }
 
+import subprocess
 import os
 from jinja2 import Environment, FileSystemLoader
 
-# Load template file
-file_loader = FileSystemLoader('templates')
-env = Environment(loader=file_loader)
-template = env.get_template("py_perf_temp.txt")
-output = template.render(PERF_VARIABLE=PERF_VARIABLE)
-print(output)
-# output_file = open("output_python_file.py", "w")
-# output_file.write(output)
-# output_file.close()
 
-with open(f"{os.getcwd()}{os.sep}locust_file{os.sep}output_python_file_3.py", "w") as output_file:
-  output_file.write(output)
+def load_jinja_template_and_generate_locust_py(jinja_template_dir="", jinja_file_path="",
+                                               jinja2_template_variable=None, output_file_path=""):
+    file_loader = FileSystemLoader(jinja_template_dir)
+    env = Environment(loader=file_loader)
+    template = env.get_template(jinja_file_path)
+    output = template.render(PERF_VARIABLE=jinja2_template_variable)
+    print(output)
+
+    # output_file = open("output_python_file.py", "w")
+    # output_file.write(output)
+    # output_file.close()
+
+    with open(output_file_path, "w") as output_file:
+        output_file.write(output)
+
+
+if __name__ == "__main__":
+    jinja2_temp_dir = os.path.dirname(os.path.realpath(__file__)) + os.sep + "templates"
+    output_py_file = f"{os.path.dirname(os.path.realpath(__file__))}{os.sep}locust_file{os.sep}output_python_file_5.py"
+    load_jinja_template_and_generate_locust_py(jinja_template_dir=jinja2_temp_dir,
+                                               jinja_file_path="py_perf_temp.txt",
+                                               jinja2_template_variable=PERF_VARIABLE,
+                                               output_file_path=output_py_file)
+    # subprocess.run("echo hello world", shell=True)
+    # subprocess.run("dir", shell=True)
+    command = ["locust", "-f", output_py_file]
+    # sp = subprocess.run(command, shell=False, capture_output=True)
+    # print(sp.stdout)
+    sp = subprocess.Popen(command, shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
+
+    # rtrn = sp.wait()
+    print(sp.pid)
+    out, err = sp.communicate()
+    print(out)
