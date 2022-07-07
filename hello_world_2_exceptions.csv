@@ -1,0 +1,6 @@
+Count,Message,Traceback,Nodes
+21,No tasks defined on User3. use the @task decorator or set the tasks property of the User (or mark it as abstract = True if you only intend to subclass it),"  File ""c:\users\user\zeuz\python\lib\site-packages\locust\user\task.py"", line 314, in run
+    self.schedule_task(self.get_next_task())
+  File ""c:\users\user\zeuz\python\lib\site-packages\locust\user\task.py"", line 446, in get_next_task
+    raise Exception(
+",local

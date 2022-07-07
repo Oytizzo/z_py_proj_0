@@ -1,0 +1,141 @@
+{
+  "data": {
+    "teacher": "Teacher Dec",
+    "teacherID": 1538,
+    "roomID": "109_070720220600",
+    "lstTeacherUpcomingLiveClass": [
+      {
+        "classScheduledDate": "2022-07-07T00:00:00",
+        "time": "6:00 AM",
+        "students": [
+          {
+            "studentName": "thu6 testing",
+            "studentID": 118762,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375239,
+                "subject": "English",
+                "subjectWeek": "7-G",
+                "subjectLevel": "Level F1",
+                "startTime": "6:00 AM",
+                "endTime": "6:30 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 14375262,
+                "subject": "Math",
+                "subjectWeek": "8-H",
+                "subjectLevel": "Level 0A",
+                "startTime": "6:30 AM",
+                "endTime": "7:00 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "thu7 testing",
+            "studentID": 118763,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375288,
+                "subject": "English",
+                "subjectWeek": "6-F",
+                "subjectLevel": "Level F1",
+                "startTime": "6:00 AM",
+                "endTime": "6:30 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "thu9 testing",
+            "studentID": 118765,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375338,
+                "subject": "English",
+                "subjectWeek": "8-H",
+                "subjectLevel": "Level G1",
+                "startTime": "6:00 AM",
+                "endTime": "6:30 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 14375360,
+                "subject": "Math",
+                "subjectWeek": "9-I",
+                "subjectLevel": "Level 2",
+                "startTime": "6:30 AM",
+                "endTime": "7:00 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "thu10 testing",
+            "studentID": 118767,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375403,
+                "subject": "English",
+                "subjectWeek": "4-D",
+                "subjectLevel": "Level F1",
+                "startTime": "6:00 AM",
+                "endTime": "6:30 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 14375425,
+                "subject": "Math",
+                "subjectWeek": "5-E",
+                "subjectLevel": "Level 3",
+                "startTime": "6:30 AM",
+                "endTime": "7:00 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "Wed inactive",
+            "studentID": 118761,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375213,
+                "subject": "English",
+                "subjectWeek": "6-F",
+                "subjectLevel": "Level F1",
+                "startTime": "6:30 AM",
+                "endTime": "7:00 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "thu8 testing",
+            "studentID": 118764,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375313,
+                "subject": "Math",
+                "subjectWeek": "7-G",
+                "subjectLevel": "Level 0B",
+                "startTime": "6:30 AM",
+                "endTime": "7:00 AM",
+                "test": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}
