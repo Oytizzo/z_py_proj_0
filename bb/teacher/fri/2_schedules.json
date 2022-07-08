@@ -1,0 +1,1856 @@
+{
+  "data": [
+    {
+      "classScheduledDate": "2022-07-08T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371887,
+              "studentID": 118726,
+              "studentName": "Fri2 Dec",
+              "subject": "English",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Senior Reader",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372680,
+              "studentID": 118725,
+              "studentName": "Fri1 Dec",
+              "subject": "English",
+              "subjectWeek": "14-N",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375428,
+              "studentID": 118768,
+              "studentName": "otizzo ram",
+              "subject": "English",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371912,
+              "studentID": 118726,
+              "studentName": "Fri2 Dec",
+              "subject": "Math",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level 0B",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372704,
+              "studentID": 118725,
+              "studentName": "Fri1 Dec",
+              "subject": "Math",
+              "subjectWeek": "14-N",
+              "subjectLevel": "Level 1",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375452,
+              "studentID": 118768,
+              "studentName": "otizzo ram",
+              "subject": "Math",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Level 5A",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-11T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371931,
+              "studentID": 118727,
+              "studentName": "Mon1 Dec",
+              "subject": "English",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Level H1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371972,
+              "studentID": 118728,
+              "studentName": "Mon2 Dec",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Master Reader",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14331123,
+              "studentID": 118728,
+              "studentName": "Mon2 Dec",
+              "subject": "Math",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level 6A",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371952,
+              "studentID": 118727,
+              "studentName": "Mon1 Dec",
+              "subject": "Math",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level 0B",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-12T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "11:00 AM-12:00 PM",
+          "students": [
+            {
+              "scheduleID": 14375369,
+              "studentID": 118766,
+              "studentName": "tue3hw hw",
+              "subject": "English",
+              "subjectWeek": "20-T",
+              "subjectLevel": "Level G1",
+              "startTime": "11:00 AM",
+              "endTime": "11:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375378,
+              "studentID": 118766,
+              "studentName": "tue3hw hw",
+              "subject": "Math",
+              "subjectWeek": "24-X",
+              "subjectLevel": "Level 6B",
+              "startTime": "11:30 AM",
+              "endTime": "12:00 PM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "5:30 PM-6:00 PM",
+          "students": [
+            {
+              "scheduleID": 14330814,
+              "studentID": 118729,
+              "studentName": "Tue1 Dec",
+              "subject": "English",
+              "subjectWeek": "25-Y",
+              "subjectLevel": "Level M1",
+              "startTime": "5:30 PM",
+              "endTime": "6:00 PM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375047,
+              "studentID": 118730,
+              "studentName": "Tue2 Dec",
+              "subject": "English",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Level G1",
+              "startTime": "5:30 PM",
+              "endTime": "6:00 PM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "6:00 PM-6:30 PM",
+          "students": [
+            {
+              "scheduleID": 14372013,
+              "studentID": 118729,
+              "studentName": "Tue1 Dec",
+              "subject": "Math",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level 8",
+              "startTime": "6:00 PM",
+              "endTime": "6:30 PM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375020,
+              "studentID": 118730,
+              "studentName": "Tue2 Dec",
+              "subject": "Math",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Level 2",
+              "startTime": "6:00 PM",
+              "endTime": "6:30 PM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-13T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-6:30 AM",
+          "students": [
+            {
+              "scheduleID": 14375186,
+              "studentID": 118761,
+              "studentName": "Wed inactive",
+              "subject": "Math",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level 5A",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14373306,
+              "studentID": 118722,
+              "studentName": "Wed2 Dec",
+              "subject": "Math",
+              "subjectWeek": "21-U",
+              "subjectLevel": "Level 4",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371844,
+              "studentID": 118722,
+              "studentName": "Wed2 Dec",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level L1",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 PM-8:00 PM",
+          "students": [
+            {
+              "scheduleID": 14372820,
+              "studentID": 118721,
+              "studentName": "Wed1 Dec",
+              "subject": "English",
+              "subjectWeek": "14-N",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 PM",
+              "endTime": "7:30 PM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372831,
+              "studentID": 118721,
+              "studentName": "Wed1 Dec",
+              "subject": "Math",
+              "subjectWeek": "16-P",
+              "subjectLevel": "Level 1",
+              "startTime": "7:30 PM",
+              "endTime": "8:00 PM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-14T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-7:00 AM",
+          "students": [
+            {
+              "scheduleID": 14375238,
+              "studentID": 118762,
+              "studentName": "thu6 testing",
+              "subject": "English",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375287,
+              "studentID": 118763,
+              "studentName": "thu7 testing",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375337,
+              "studentID": 118765,
+              "studentName": "thu9 testing",
+              "subject": "English",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level G1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375402,
+              "studentID": 118767,
+              "studentName": "thu10 testing",
+              "subject": "English",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375212,
+              "studentID": 118761,
+              "studentName": "Wed inactive",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level F1",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375261,
+              "studentID": 118762,
+              "studentName": "thu6 testing",
+              "subject": "Math",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level 0A",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375312,
+              "studentID": 118764,
+              "studentName": "thu8 testing",
+              "subject": "Math",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level 0B",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375359,
+              "studentID": 118765,
+              "studentName": "thu9 testing",
+              "subject": "Math",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level 2",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375424,
+              "studentID": 118767,
+              "studentName": "thu10 testing",
+              "subject": "Math",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Level 3",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14374928,
+              "studentID": 118723,
+              "studentName": "Thu1 Dec",
+              "subject": "English",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level H1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14374981,
+              "studentID": 118724,
+              "studentName": "Thu2 Dec",
+              "subject": "English",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level I1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14374955,
+              "studentID": 118724,
+              "studentName": "Thu2 Dec",
+              "subject": "Math",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level 4",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-15T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371888,
+              "studentID": 118726,
+              "studentName": "Fri2 Dec",
+              "subject": "English",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Senior Reader",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372678,
+              "studentID": 118725,
+              "studentName": "Fri1 Dec",
+              "subject": "English",
+              "subjectWeek": "15-O",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375450,
+              "studentID": 118768,
+              "studentName": "otizzo ram",
+              "subject": "English",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371913,
+              "studentID": 118726,
+              "studentName": "Fri2 Dec",
+              "subject": "Math",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level 0B",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372703,
+              "studentID": 118725,
+              "studentName": "Fri1 Dec",
+              "subject": "Math",
+              "subjectWeek": "15-O",
+              "subjectLevel": "Level 1",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375472,
+              "studentID": 118768,
+              "studentName": "otizzo ram",
+              "subject": "Math",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Level 5A",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-18T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371932,
+              "studentID": 118727,
+              "studentName": "Mon1 Dec",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level H1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371973,
+              "studentID": 118728,
+              "studentName": "Mon2 Dec",
+              "subject": "English",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Master Reader",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14331122,
+              "studentID": 118728,
+              "studentName": "Mon2 Dec",
+              "subject": "Math",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level 6A",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371953,
+              "studentID": 118727,
+              "studentName": "Mon1 Dec",
+              "subject": "Math",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level 0B",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-19T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "11:00 AM-12:00 PM",
+          "students": [
+            {
+              "scheduleID": 14375370,
+              "studentID": 118766,
+              "studentName": "tue3hw hw",
+              "subject": "English",
+              "subjectWeek": "21-U",
+              "subjectLevel": "Level G1",
+              "startTime": "11:00 AM",
+              "endTime": "11:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375379,
+              "studentID": 118766,
+              "studentName": "tue3hw hw",
+              "subject": "Math",
+              "subjectWeek": "25-Y",
+              "subjectLevel": "Level 6B",
+              "startTime": "11:30 AM",
+              "endTime": "12:00 PM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "5:30 PM-6:00 PM",
+          "students": [
+            {
+              "scheduleID": 14330837,
+              "studentID": 118729,
+              "studentName": "Tue1 Dec",
+              "subject": "English",
+              "subjectWeek": "26-Z",
+              "subjectLevel": "Level M1",
+              "startTime": "5:30 PM",
+              "endTime": "6:00 PM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375046,
+              "studentID": 118730,
+              "studentName": "Tue2 Dec",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level G1",
+              "startTime": "5:30 PM",
+              "endTime": "6:00 PM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "6:00 PM-6:30 PM",
+          "students": [
+            {
+              "scheduleID": 14372014,
+              "studentID": 118729,
+              "studentName": "Tue1 Dec",
+              "subject": "Math",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level 8",
+              "startTime": "6:00 PM",
+              "endTime": "6:30 PM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375019,
+              "studentID": 118730,
+              "studentName": "Tue2 Dec",
+              "subject": "Math",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level 2",
+              "startTime": "6:00 PM",
+              "endTime": "6:30 PM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-20T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-6:30 AM",
+          "students": [
+            {
+              "scheduleID": 14375185,
+              "studentID": 118761,
+              "studentName": "Wed inactive",
+              "subject": "Math",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level 5A",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14373300,
+              "studentID": 118722,
+              "studentName": "Wed2 Dec",
+              "subject": "Math",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Level 5A",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371845,
+              "studentID": 118722,
+              "studentName": "Wed2 Dec",
+              "subject": "English",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level L1",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 PM-8:00 PM",
+          "students": [
+            {
+              "scheduleID": 14372810,
+              "studentID": 118721,
+              "studentName": "Wed1 Dec",
+              "subject": "English",
+              "subjectWeek": "15-O",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 PM",
+              "endTime": "7:30 PM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372830,
+              "studentID": 118721,
+              "studentName": "Wed1 Dec",
+              "subject": "Math",
+              "subjectWeek": "17-Q",
+              "subjectLevel": "Level 1",
+              "startTime": "7:30 PM",
+              "endTime": "8:00 PM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-21T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-7:00 AM",
+          "students": [
+            {
+              "scheduleID": 14375237,
+              "studentID": 118762,
+              "studentName": "thu6 testing",
+              "subject": "English",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375286,
+              "studentID": 118763,
+              "studentName": "thu7 testing",
+              "subject": "English",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375336,
+              "studentID": 118765,
+              "studentName": "thu9 testing",
+              "subject": "English",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level G1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375401,
+              "studentID": 118767,
+              "studentName": "thu10 testing",
+              "subject": "English",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375211,
+              "studentID": 118761,
+              "studentName": "Wed inactive",
+              "subject": "English",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level F1",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375260,
+              "studentID": 118762,
+              "studentName": "thu6 testing",
+              "subject": "Math",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level 0A",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375311,
+              "studentID": 118764,
+              "studentName": "thu8 testing",
+              "subject": "Math",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level 0B",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375358,
+              "studentID": 118765,
+              "studentName": "thu9 testing",
+              "subject": "Math",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level 2",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375423,
+              "studentID": 118767,
+              "studentName": "thu10 testing",
+              "subject": "Math",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level 3",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14374927,
+              "studentID": 118723,
+              "studentName": "Thu1 Dec",
+              "subject": "English",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level H1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14374980,
+              "studentID": 118724,
+              "studentName": "Thu2 Dec",
+              "subject": "English",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level I1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14374954,
+              "studentID": 118724,
+              "studentName": "Thu2 Dec",
+              "subject": "Math",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level 4",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-22T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371889,
+              "studentID": 118726,
+              "studentName": "Fri2 Dec",
+              "subject": "English",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Senior Reader",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372677,
+              "studentID": 118725,
+              "studentName": "Fri1 Dec",
+              "subject": "English",
+              "subjectWeek": "16-P",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375449,
+              "studentID": 118768,
+              "studentName": "otizzo ram",
+              "subject": "English",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371914,
+              "studentID": 118726,
+              "studentName": "Fri2 Dec",
+              "subject": "Math",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level 0B",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14372702,
+              "studentID": 118725,
+              "studentName": "Fri1 Dec",
+              "subject": "Math",
+              "subjectWeek": "16-P",
+              "subjectLevel": "Level 1",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375471,
+              "studentID": 118768,
+              "studentName": "otizzo ram",
+              "subject": "Math",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Level 5A",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-25T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371933,
+              "studentID": 118727,
+              "studentName": "Mon1 Dec",
+              "subject": "English",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level H1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371974,
+              "studentID": 118728,
+              "studentName": "Mon2 Dec",
+              "subject": "English",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Master Reader",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14331121,
+              "studentID": 118728,
+              "studentName": "Mon2 Dec",
+              "subject": "Math",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level 6A",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371954,
+              "studentID": 118727,
+              "studentName": "Mon1 Dec",
+              "subject": "Math",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level 0B",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-26T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "11:00 AM-12:00 PM",
+          "students": [
+            {
+              "scheduleID": 14375371,
+              "studentID": 118766,
+              "studentName": "tue3hw hw",
+              "subject": "English",
+              "subjectWeek": "22-V",
+              "subjectLevel": "Level G1",
+              "startTime": "11:00 AM",
+              "endTime": "11:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375380,
+              "studentID": 118766,
+              "studentName": "tue3hw hw",
+              "subject": "Math",
+              "subjectWeek": "26-Z",
+              "subjectLevel": "Level 6B",
+              "startTime": "11:30 AM",
+              "endTime": "12:00 PM",
+              "test": true
+            }
+          ]
+        },
+        {
+          "time": "5:30 PM-6:00 PM",
+          "students": [
+            {
+              "scheduleID": 14371989,
+              "studentID": 118729,
+              "studentName": "Tue1 Dec",
+              "subject": "English",
+              "subjectWeek": "1-A",
+              "subjectLevel": "Level N1",
+              "startTime": "5:30 PM",
+              "endTime": "6:00 PM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375045,
+              "studentID": 118730,
+              "studentName": "Tue2 Dec",
+              "subject": "English",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level G1",
+              "startTime": "5:30 PM",
+              "endTime": "6:00 PM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "6:00 PM-6:30 PM",
+          "students": [
+            {
+              "scheduleID": 14372015,
+              "studentID": 118729,
+              "studentName": "Tue1 Dec",
+              "subject": "Math",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level 8",
+              "startTime": "6:00 PM",
+              "endTime": "6:30 PM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375018,
+              "studentID": 118730,
+              "studentName": "Tue2 Dec",
+              "subject": "Math",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level 2",
+              "startTime": "6:00 PM",
+              "endTime": "6:30 PM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-27T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-6:30 AM",
+          "students": [
+            {
+              "scheduleID": 14375184,
+              "studentID": 118761,
+              "studentName": "Wed inactive",
+              "subject": "Math",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level 5A",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:30 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371846,
+              "studentID": 118722,
+              "studentName": "Wed2 Dec",
+              "subject": "English",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level L1",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 PM-8:00 PM",
+          "students": [
+            {
+              "scheduleID": 14372811,
+              "studentID": 118721,
+              "studentName": "Wed1 Dec",
+              "subject": "English",
+              "subjectWeek": "16-P",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 PM",
+              "endTime": "7:30 PM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372829,
+              "studentID": 118721,
+              "studentName": "Wed1 Dec",
+              "subject": "Math",
+              "subjectWeek": "18-R",
+              "subjectLevel": "Level 1",
+              "startTime": "7:30 PM",
+              "endTime": "8:00 PM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-28T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-7:00 AM",
+          "students": [
+            {
+              "scheduleID": 14375236,
+              "studentID": 118762,
+              "studentName": "thu6 testing",
+              "subject": "English",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375285,
+              "studentID": 118763,
+              "studentName": "thu7 testing",
+              "subject": "English",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375335,
+              "studentID": 118765,
+              "studentName": "thu9 testing",
+              "subject": "English",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level G1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375400,
+              "studentID": 118767,
+              "studentName": "thu10 testing",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375210,
+              "studentID": 118761,
+              "studentName": "Wed inactive",
+              "subject": "English",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level F1",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375259,
+              "studentID": 118762,
+              "studentName": "thu6 testing",
+              "subject": "Math",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level 0A",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375310,
+              "studentID": 118764,
+              "studentName": "thu8 testing",
+              "subject": "Math",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level 0B",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375357,
+              "studentID": 118765,
+              "studentName": "thu9 testing",
+              "subject": "Math",
+              "subjectWeek": "12-L",
+              "subjectLevel": "Level 2",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375422,
+              "studentID": 118767,
+              "studentName": "thu10 testing",
+              "subject": "Math",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level 3",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14374926,
+              "studentID": 118723,
+              "studentName": "Thu1 Dec",
+              "subject": "English",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level H1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14374991,
+              "studentID": 118724,
+              "studentName": "Thu2 Dec",
+              "subject": "English",
+              "subjectWeek": "12-L",
+              "subjectLevel": "Level I1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14374953,
+              "studentID": 118724,
+              "studentName": "Thu2 Dec",
+              "subject": "Math",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level 4",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-07-29T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371890,
+              "studentID": 118726,
+              "studentName": "Fri2 Dec",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Senior Reader",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372676,
+              "studentID": 118725,
+              "studentName": "Fri1 Dec",
+              "subject": "English",
+              "subjectWeek": "17-Q",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375448,
+              "studentID": 118768,
+              "studentName": "otizzo ram",
+              "subject": "English",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371915,
+              "studentID": 118726,
+              "studentName": "Fri2 Dec",
+              "subject": "Math",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level 0B",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372701,
+              "studentID": 118725,
+              "studentName": "Fri1 Dec",
+              "subject": "Math",
+              "subjectWeek": "17-Q",
+              "subjectLevel": "Level 1",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375470,
+              "studentID": 118768,
+              "studentName": "otizzo ram",
+              "subject": "Math",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level 5A",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-08-01T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371934,
+              "studentID": 118727,
+              "studentName": "Mon1 Dec",
+              "subject": "English",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level H1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14371975,
+              "studentID": 118728,
+              "studentName": "Mon2 Dec",
+              "subject": "English",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Master Reader",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14331132,
+              "studentID": 118728,
+              "studentName": "Mon2 Dec",
+              "subject": "Math",
+              "subjectWeek": "12-L",
+              "subjectLevel": "Level 6A",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371955,
+              "studentID": 118727,
+              "studentName": "Mon1 Dec",
+              "subject": "Math",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level 0B",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-08-02T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "11:00 AM-11:30 AM",
+          "students": [
+            {
+              "scheduleID": 14375372,
+              "studentID": 118766,
+              "studentName": "tue3hw hw",
+              "subject": "English",
+              "subjectWeek": "23-W",
+              "subjectLevel": "Level G1",
+              "startTime": "11:00 AM",
+              "endTime": "11:30 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "5:30 PM-6:00 PM",
+          "students": [
+            {
+              "scheduleID": 14371990,
+              "studentID": 118729,
+              "studentName": "Tue1 Dec",
+              "subject": "English",
+              "subjectWeek": "2-B",
+              "subjectLevel": "Level N1",
+              "startTime": "5:30 PM",
+              "endTime": "6:00 PM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375044,
+              "studentID": 118730,
+              "studentName": "Tue2 Dec",
+              "subject": "English",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level G1",
+              "startTime": "5:30 PM",
+              "endTime": "6:00 PM",
+              "test": true
+            }
+          ]
+        },
+        {
+          "time": "6:00 PM-6:30 PM",
+          "students": [
+            {
+              "scheduleID": 14372016,
+              "studentID": 118729,
+              "studentName": "Tue1 Dec",
+              "subject": "Math",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level 8",
+              "startTime": "6:00 PM",
+              "endTime": "6:30 PM",
+              "test": true
+            },
+            {
+              "scheduleID": 14375017,
+              "studentID": 118730,
+              "studentName": "Tue2 Dec",
+              "subject": "Math",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level 2",
+              "startTime": "6:00 PM",
+              "endTime": "6:30 PM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-08-03T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-6:30 AM",
+          "students": [
+            {
+              "scheduleID": 14375183,
+              "studentID": 118761,
+              "studentName": "Wed inactive",
+              "subject": "Math",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level 5A",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": true
+            }
+          ]
+        },
+        {
+          "time": "7:30 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371847,
+              "studentID": 118722,
+              "studentName": "Wed2 Dec",
+              "subject": "English",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level L1",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 PM-8:00 PM",
+          "students": [
+            {
+              "scheduleID": 14372812,
+              "studentID": 118721,
+              "studentName": "Wed1 Dec",
+              "subject": "English",
+              "subjectWeek": "17-Q",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 PM",
+              "endTime": "7:30 PM",
+              "test": true
+            },
+            {
+              "scheduleID": 14372828,
+              "studentID": 118721,
+              "studentName": "Wed1 Dec",
+              "subject": "Math",
+              "subjectWeek": "19-S",
+              "subjectLevel": "Level 1",
+              "startTime": "7:30 PM",
+              "endTime": "8:00 PM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-08-04T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-7:00 AM",
+          "students": [
+            {
+              "scheduleID": 14375235,
+              "studentID": 118762,
+              "studentName": "thu6 testing",
+              "subject": "English",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375284,
+              "studentID": 118763,
+              "studentName": "thu7 testing",
+              "subject": "English",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375334,
+              "studentID": 118765,
+              "studentName": "thu9 testing",
+              "subject": "English",
+              "subjectWeek": "12-L",
+              "subjectLevel": "Level G1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375399,
+              "studentID": 118767,
+              "studentName": "thu10 testing",
+              "subject": "English",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level F1",
+              "startTime": "6:00 AM",
+              "endTime": "6:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375209,
+              "studentID": 118761,
+              "studentName": "Wed inactive",
+              "subject": "English",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level F1",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375258,
+              "studentID": 118762,
+              "studentName": "thu6 testing",
+              "subject": "Math",
+              "subjectWeek": "12-L",
+              "subjectLevel": "Level 0A",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375309,
+              "studentID": 118764,
+              "studentName": "thu8 testing",
+              "subject": "Math",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Level 0B",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375356,
+              "studentID": 118765,
+              "studentName": "thu9 testing",
+              "subject": "Math",
+              "subjectWeek": "13-M",
+              "subjectLevel": "Level 2",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375421,
+              "studentID": 118767,
+              "studentName": "thu10 testing",
+              "subject": "Math",
+              "subjectWeek": "9-I",
+              "subjectLevel": "Level 3",
+              "startTime": "6:30 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14374937,
+              "studentID": 118723,
+              "studentName": "Thu1 Dec",
+              "subject": "English",
+              "subjectWeek": "12-L",
+              "subjectLevel": "Level H1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14374979,
+              "studentID": 118724,
+              "studentName": "Thu2 Dec",
+              "subject": "English",
+              "subjectWeek": "13-M",
+              "subjectLevel": "Level I1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14374964,
+              "studentID": 118724,
+              "studentName": "Thu2 Dec",
+              "subject": "Math",
+              "subjectWeek": "12-L",
+              "subjectLevel": "Level 4",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-08-05T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371891,
+              "studentID": 118726,
+              "studentName": "Fri2 Dec",
+              "subject": "English",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Senior Reader",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372675,
+              "studentID": 118725,
+              "studentName": "Fri1 Dec",
+              "subject": "English",
+              "subjectWeek": "18-R",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375447,
+              "studentID": 118768,
+              "studentName": "otizzo ram",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level F1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371916,
+              "studentID": 118726,
+              "studentName": "Fri2 Dec",
+              "subject": "Math",
+              "subjectWeek": "12-L",
+              "subjectLevel": "Level 0B",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14372700,
+              "studentID": 118725,
+              "studentName": "Fri1 Dec",
+              "subject": "Math",
+              "subjectWeek": "18-R",
+              "subjectLevel": "Level 1",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14375469,
+              "studentID": 118768,
+              "studentName": "otizzo ram",
+              "subject": "Math",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Level 5A",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-08-08T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 14371935,
+              "studentID": 118727,
+              "studentName": "Mon1 Dec",
+              "subject": "English",
+              "subjectWeek": "10-J",
+              "subjectLevel": "Level H1",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371976,
+              "studentID": 118728,
+              "studentName": "Mon2 Dec",
+              "subject": "English",
+              "subjectWeek": "11-K",
+              "subjectLevel": "Master Reader",
+              "startTime": "7:00 AM",
+              "endTime": "7:30 AM",
+              "test": true
+            },
+            {
+              "scheduleID": 14331120,
+              "studentID": 118728,
+              "studentName": "Mon2 Dec",
+              "subject": "Math",
+              "subjectWeek": "13-M",
+              "subjectLevel": "Level 6A",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 14371956,
+              "studentID": 118727,
+              "studentName": "Mon1 Dec",
+              "subject": "Math",
+              "subjectWeek": "12-L",
+              "subjectLevel": "Level 0B",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}

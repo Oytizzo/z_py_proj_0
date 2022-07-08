@@ -1,0 +1,93 @@
+{
+  "data": {
+    "teacher": "Teacher Dec",
+    "teacherID": 1538,
+    "roomID": "109_070820220700",
+    "lstTeacherUpcomingLiveClass": [
+      {
+        "classScheduledDate": "2022-07-08T00:00:00",
+        "time": "7:00 AM",
+        "students": [
+          {
+            "studentName": "Fri1 Dec",
+            "studentID": 118725,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14372680,
+                "subject": "English",
+                "subjectWeek": "14-N",
+                "subjectLevel": "Level F1",
+                "startTime": "7:00 AM",
+                "endTime": "7:30 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 14372704,
+                "subject": "Math",
+                "subjectWeek": "14-N",
+                "subjectLevel": "Level 1",
+                "startTime": "7:30 AM",
+                "endTime": "8:00 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "Fri2 Dec",
+            "studentID": 118726,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14371887,
+                "subject": "English",
+                "subjectWeek": "4-D",
+                "subjectLevel": "Senior Reader",
+                "startTime": "7:00 AM",
+                "endTime": "7:30 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 14371912,
+                "subject": "Math",
+                "subjectWeek": "8-H",
+                "subjectLevel": "Level 0B",
+                "startTime": "7:30 AM",
+                "endTime": "8:00 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "otizzo ram",
+            "studentID": 118768,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 14375428,
+                "subject": "English",
+                "subjectWeek": "3-C",
+                "subjectLevel": "Level F1",
+                "startTime": "7:00 AM",
+                "endTime": "7:30 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 14375452,
+                "subject": "Math",
+                "subjectWeek": "4-D",
+                "subjectLevel": "Level 5A",
+                "startTime": "7:30 AM",
+                "endTime": "8:00 AM",
+                "test": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}
