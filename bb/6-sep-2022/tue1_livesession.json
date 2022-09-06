@@ -1,0 +1,353 @@
+{
+  "data": [
+    {
+      "test": false,
+      "scheduleID": 17606967,
+      "studentID": 126284,
+      "studentName": "tue1 testing",
+      "subject": "Math",
+      "subjectWeek": "3-C",
+      "subjectLevel": "Level 8",
+      "pages": [
+        {
+          "isReadOnly": false,
+          "bookPageId": 9029,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/55e78177-ceab-402d-b6c5-3dff319fead6.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/55e78177-ceab-402d-b6c5-3dff319fead6.jpg",
+          "status": true,
+          "pageName": "55e78177-ceab-402d-b6c5-3dff319fead6",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 9030,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/5b3b2be9-4fa5-4875-a173-2c271ddeb25e.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/5b3b2be9-4fa5-4875-a173-2c271ddeb25e.jpg",
+          "status": true,
+          "pageName": "5b3b2be9-4fa5-4875-a173-2c271ddeb25e",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 9031,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/9bb48f28-26a0-41ee-893e-406b27b722db.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/9bb48f28-26a0-41ee-893e-406b27b722db.jpg",
+          "status": true,
+          "pageName": "9bb48f28-26a0-41ee-893e-406b27b722db",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 9032,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/7f508d8b-99b8-4621-9b0a-828dc19f99f5.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/7f508d8b-99b8-4621-9b0a-828dc19f99f5.jpg",
+          "status": true,
+          "pageName": "7f508d8b-99b8-4621-9b0a-828dc19f99f5",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 9033,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/bf8565ca-1718-4149-9cd3-7238086053b1.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/bf8565ca-1718-4149-9cd3-7238086053b1.jpg",
+          "status": true,
+          "pageName": "bf8565ca-1718-4149-9cd3-7238086053b1",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 9034,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/366883e0-7861-4688-91b6-04879fe2a2c5.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/366883e0-7861-4688-91b6-04879fe2a2c5.jpg",
+          "status": true,
+          "pageName": "366883e0-7861-4688-91b6-04879fe2a2c5",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 9035,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/d148cb67-8aa5-4083-aae0-b36423625c7f.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/d148cb67-8aa5-4083-aae0-b36423625c7f.jpg",
+          "status": true,
+          "pageName": "d148cb67-8aa5-4083-aae0-b36423625c7f",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 9036,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/60f8ae67-77b8-454c-ae81-a0826bf63df6.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/60f8ae67-77b8-454c-ae81-a0826bf63df6.jpg",
+          "status": true,
+          "pageName": "60f8ae67-77b8-454c-ae81-a0826bf63df6",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 9037,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/d25fccf1-4312-4853-a380-4df5ab3e3758.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/d25fccf1-4312-4853-a380-4df5ab3e3758.jpg",
+          "status": true,
+          "pageName": "d25fccf1-4312-4853-a380-4df5ab3e3758",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 9038,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/b1bd6d98-14fe-4898-8936-37ab309ee6b3.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/b1bd6d98-14fe-4898-8936-37ab309ee6b3.jpg",
+          "status": true,
+          "pageName": "b1bd6d98-14fe-4898-8936-37ab309ee6b3",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 9039,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/e70bae90-9c2e-4e79-af1f-c5bc066b1249.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/e70bae90-9c2e-4e79-af1f-c5bc066b1249.jpg",
+          "status": true,
+          "pageName": "e70bae90-9c2e-4e79-af1f-c5bc066b1249",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 9040,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/98a1c075-b9db-4e88-a824-fb188be3e8ac.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/98a1c075-b9db-4e88-a824-fb188be3e8ac.jpg",
+          "status": true,
+          "pageName": "98a1c075-b9db-4e88-a824-fb188be3e8ac",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 9041,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/6e430e62-44a3-4682-8b2e-91f42256f99e.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/6e430e62-44a3-4682-8b2e-91f42256f99e.jpg",
+          "status": true,
+          "pageName": "6e430e62-44a3-4682-8b2e-91f42256f99e",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 9042,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/e7c9cacc-a197-4adc-97c4-20c9f938c9f3.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/e7c9cacc-a197-4adc-97c4-20c9f938c9f3.jpg",
+          "status": true,
+          "pageName": "e7c9cacc-a197-4adc-97c4-20c9f938c9f3",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 9043,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/032c1ceb-ca82-419a-80f2-cccc9cebe732.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/032c1ceb-ca82-419a-80f2-cccc9cebe732.jpg",
+          "status": true,
+          "pageName": "032c1ceb-ca82-419a-80f2-cccc9cebe732",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 9044,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/M_8_C/f037525e-2f48-4346-be29-c09f30b8bfd0.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/M_8_C/f037525e-2f48-4346-be29-c09f30b8bfd0.jpg",
+          "status": true,
+          "pageName": "f037525e-2f48-4346-be29-c09f30b8bfd0",
+          "canSubmit": false
+        }
+      ]
+    },
+    {
+      "test": false,
+      "scheduleID": 17605891,
+      "studentID": 126284,
+      "studentName": "tue1 testing",
+      "subject": "English",
+      "subjectWeek": "4-D",
+      "subjectLevel": "Level M1",
+      "pages": [
+        {
+          "isReadOnly": false,
+          "bookPageId": 31335,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/b35712f7-fb99-4e32-9525-695bc3d43bd5.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/b35712f7-fb99-4e32-9525-695bc3d43bd5.jpg",
+          "status": true,
+          "pageName": "b35712f7-fb99-4e32-9525-695bc3d43bd5",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 31336,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/b553e63f-e61f-43ff-bca2-2fd46ca8ea16.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/b553e63f-e61f-43ff-bca2-2fd46ca8ea16.jpg",
+          "status": true,
+          "pageName": "b553e63f-e61f-43ff-bca2-2fd46ca8ea16",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 31337,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/14309458-4ec5-419b-85e5-343fb6998964.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/14309458-4ec5-419b-85e5-343fb6998964.jpg",
+          "status": true,
+          "pageName": "14309458-4ec5-419b-85e5-343fb6998964",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 31338,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/5d848b3f-d616-47b1-b13e-a2cecf00bd04.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/5d848b3f-d616-47b1-b13e-a2cecf00bd04.jpg",
+          "status": true,
+          "pageName": "5d848b3f-d616-47b1-b13e-a2cecf00bd04",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 31339,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/735d5335-4ba6-4d42-ac90-a81dc6a1a09b.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/735d5335-4ba6-4d42-ac90-a81dc6a1a09b.jpg",
+          "status": true,
+          "pageName": "735d5335-4ba6-4d42-ac90-a81dc6a1a09b",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 31340,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/ef86c62b-fdb7-45c7-8806-ebce618ba984.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/ef86c62b-fdb7-45c7-8806-ebce618ba984.jpg",
+          "status": true,
+          "pageName": "ef86c62b-fdb7-45c7-8806-ebce618ba984",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 31341,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/6079472d-791f-4e1e-bcee-926943fef774.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/6079472d-791f-4e1e-bcee-926943fef774.jpg",
+          "status": true,
+          "pageName": "6079472d-791f-4e1e-bcee-926943fef774",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 31342,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/828296c1-3263-4b06-820e-e73f89c337e3.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/828296c1-3263-4b06-820e-e73f89c337e3.jpg",
+          "status": true,
+          "pageName": "828296c1-3263-4b06-820e-e73f89c337e3",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 31343,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/e185c65d-c155-4c2b-a47e-5a3340f5964c.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/e185c65d-c155-4c2b-a47e-5a3340f5964c.jpg",
+          "status": true,
+          "pageName": "e185c65d-c155-4c2b-a47e-5a3340f5964c",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 31344,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/36fe8b6f-a7e4-44a3-a868-e5e22489a8a9.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/36fe8b6f-a7e4-44a3-a868-e5e22489a8a9.jpg",
+          "status": true,
+          "pageName": "36fe8b6f-a7e4-44a3-a868-e5e22489a8a9",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 31345,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/dcd86ae4-3cca-40df-8379-c4c0d6345b80.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/dcd86ae4-3cca-40df-8379-c4c0d6345b80.jpg",
+          "status": true,
+          "pageName": "dcd86ae4-3cca-40df-8379-c4c0d6345b80",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 31346,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/a27c8079-c923-4f8b-92a4-e016fc4868e5.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/a27c8079-c923-4f8b-92a4-e016fc4868e5.jpg",
+          "status": true,
+          "pageName": "a27c8079-c923-4f8b-92a4-e016fc4868e5",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 31347,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/5d0d5d76-78d2-4b13-b65d-1866160203bf.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/5d0d5d76-78d2-4b13-b65d-1866160203bf.jpg",
+          "status": true,
+          "pageName": "5d0d5d76-78d2-4b13-b65d-1866160203bf",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 31348,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/897fd1a8-b64f-49e5-a9d1-2560cf12f498.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/897fd1a8-b64f-49e5-a9d1-2560cf12f498.jpg",
+          "status": true,
+          "pageName": "897fd1a8-b64f-49e5-a9d1-2560cf12f498",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 31349,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/95fbdd04-04fc-46f4-9f4b-f461a0eb8d2a.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/95fbdd04-04fc-46f4-9f4b-f461a0eb8d2a.jpg",
+          "status": true,
+          "pageName": "95fbdd04-04fc-46f4-9f4b-f461a0eb8d2a",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 31350,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/f3cfc118-9804-4a49-b18f-14bf648df626.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/f3cfc118-9804-4a49-b18f-14bf648df626.jpg",
+          "status": true,
+          "pageName": "f3cfc118-9804-4a49-b18f-14bf648df626",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 31351,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/4cbcdccc-ae42-4a10-bbf9-202c6cfcbb6d.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/4cbcdccc-ae42-4a10-bbf9-202c6cfcbb6d.jpg",
+          "status": true,
+          "pageName": "4cbcdccc-ae42-4a10-bbf9-202c6cfcbb6d",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 31352,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/d0eee407-e482-4a09-af81-dfebc4cd3aa4.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/d0eee407-e482-4a09-af81-dfebc4cd3aa4.jpg",
+          "status": true,
+          "pageName": "d0eee407-e482-4a09-af81-dfebc4cd3aa4",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 31353,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/be34e5cb-0e75-4284-8983-063574f4ae06.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/be34e5cb-0e75-4284-8983-063574f4ae06.jpg",
+          "status": true,
+          "pageName": "be34e5cb-0e75-4284-8983-063574f4ae06",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": true,
+          "bookPageId": 31354,
+          "pageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/Pages/E_M1_D/893a334a-ad3a-4e51-a818-e2946350228b.jpg",
+          "submittedPageURL": "https://bbbooks.bestbrains.com:4443/BBDocs/Std/126284/E_M1_D/893a334a-ad3a-4e51-a818-e2946350228b.jpg",
+          "status": true,
+          "pageName": "893a334a-ad3a-4e51-a818-e2946350228b",
+          "canSubmit": false
+        }
+      ]
+    }
+  ],
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}
