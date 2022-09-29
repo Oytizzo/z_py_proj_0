@@ -1,0 +1,59 @@
+{
+  "data": {
+    "teacher": "ATeacher",
+    "teacherID": 1741,
+    "roomID": "108_091920220700",
+    "lstTeacherUpcomingLiveClass": [
+      {
+        "classScheduledDate": "2022-09-19T00:00:00",
+        "time": "7:00 AM",
+        "students": [
+          {
+            "studentName": "mon1 testing",
+            "studentID": 126282,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 17605734,
+                "subject": "English",
+                "subjectWeek": "5-E",
+                "subjectLevel": "Level G1",
+                "startTime": "7:00 AM",
+                "endTime": "7:30 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 17605757,
+                "subject": "Math",
+                "subjectWeek": "7-G",
+                "subjectLevel": "Level 0A",
+                "startTime": "7:30 AM",
+                "endTime": "8:00 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "mon2 testing",
+            "studentID": 126283,
+            "gender": "Female",
+            "studyContent": [
+              {
+                "scheduleID": 17605783,
+                "subject": "English",
+                "subjectWeek": "6-F",
+                "subjectLevel": "Senior Reader",
+                "startTime": "7:00 AM",
+                "endTime": "7:30 AM",
+                "test": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}

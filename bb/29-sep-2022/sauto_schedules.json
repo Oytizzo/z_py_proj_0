@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "studentName": "sautoten testing",
+      "teacherID": 1740,
+      "teacher": "TAutomation",
+      "classScheduledDate": "2022-10-05T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17612568,
+          "subject": "English",
+          "subjectWeek": "4-D",
+          "subjectLevel": "Level G1",
+          "startTime": "6:00 AM",
+          "endTime": "7:00 AM",
+          "test": false
+        },
+        {
+          "scheduleID": 17612592,
+          "subject": "Math",
+          "subjectWeek": "3-C",
+          "subjectLevel": "Level 2",
+          "startTime": "7:00 AM",
+          "endTime": "8:00 AM",
+          "test": false
+        }
+      ]
+    },
+    {
+      "studentName": "sautoten testing",
+      "teacherID": 1740,
+      "teacher": "TAutomation",
+      "classScheduledDate": "2022-10-12T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17612567,
+          "subject": "English",
+          "subjectWeek": "5-E",
+          "subjectLevel": "Level G1",
+          "startTime": "6:00 AM",
+          "endTime": "7:00 AM",
+          "test": false
+        },
+        {
+          "scheduleID": 17612591,
+          "subject": "Math",
+          "subjectWeek": "4-D",
+          "subjectLevel": "Level 2",
+          "startTime": "7:00 AM",
+          "endTime": "8:00 AM",
+          "test": false
+        }
+      ]
+    },
+    {
+      "studentName": "sautoten testing",
+      "teacherID": 1740,
+      "teacher": "TAutomation",
+      "classScheduledDate": "2022-10-19T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17612566,
+          "subject": "English",
+          "subjectWeek": "6-F",
+          "subjectLevel": "Level G1",
+          "startTime": "6:00 AM",
+          "endTime": "7:00 AM",
+          "test": false
+        },
+        {
+          "scheduleID": 17612590,
+          "subject": "Math",
+          "subjectWeek": "5-E",
+          "subjectLevel": "Level 2",
+          "startTime": "7:00 AM",
+          "endTime": "8:00 AM",
+          "test": false
+        }
+      ]
+    },
+    {
+      "studentName": "sautoten testing",
+      "teacherID": 1740,
+      "teacher": "TAutomation",
+      "classScheduledDate": "2022-10-26T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17612565,
+          "subject": "English",
+          "subjectWeek": "7-G",
+          "subjectLevel": "Level G1",
+          "startTime": "6:00 AM",
+          "endTime": "7:00 AM",
+          "test": false
+        },
+        {
+          "scheduleID": 17612589,
+          "subject": "Math",
+          "subjectWeek": "6-F",
+          "subjectLevel": "Level 2",
+          "startTime": "7:00 AM",
+          "endTime": "8:00 AM",
+          "test": false
+        }
+      ]
+    }
+  ],
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}

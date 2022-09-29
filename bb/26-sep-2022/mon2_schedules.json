@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "studentName": "mon2 testing",
+      "teacherID": 1741,
+      "teacher": "ATeacher",
+      "classScheduledDate": "2022-09-26T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17605782,
+          "subject": "English",
+          "subjectWeek": "7-G",
+          "subjectLevel": "Senior Reader",
+          "startTime": "7:00 AM",
+          "endTime": "7:30 AM",
+          "test": false
+        }
+      ]
+    },
+    {
+      "studentName": "mon2 testing",
+      "teacherID": 1741,
+      "teacher": "ATeacher",
+      "classScheduledDate": "2022-10-03T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17605781,
+          "subject": "English",
+          "subjectWeek": "8-H",
+          "subjectLevel": "Senior Reader",
+          "startTime": "7:00 AM",
+          "endTime": "7:30 AM",
+          "test": false
+        }
+      ]
+    },
+    {
+      "studentName": "mon2 testing",
+      "teacherID": 1741,
+      "teacher": "ATeacher",
+      "classScheduledDate": "2022-10-10T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17605780,
+          "subject": "English",
+          "subjectWeek": "9-I",
+          "subjectLevel": "Senior Reader",
+          "startTime": "7:00 AM",
+          "endTime": "7:30 AM",
+          "test": false
+        }
+      ]
+    },
+    {
+      "studentName": "mon2 testing",
+      "teacherID": 1741,
+      "teacher": "ATeacher",
+      "classScheduledDate": "2022-10-17T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17605779,
+          "subject": "English",
+          "subjectWeek": "10-J",
+          "subjectLevel": "Senior Reader",
+          "startTime": "7:00 AM",
+          "endTime": "7:30 AM",
+          "test": false
+        }
+      ]
+    },
+    {
+      "studentName": "mon2 testing",
+      "teacherID": 1741,
+      "teacher": "ATeacher",
+      "classScheduledDate": "2022-10-24T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17605778,
+          "subject": "English",
+          "subjectWeek": "11-K",
+          "subjectLevel": "Senior Reader",
+          "startTime": "7:00 AM",
+          "endTime": "7:30 AM",
+          "test": false
+        }
+      ]
+    }
+  ],
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}

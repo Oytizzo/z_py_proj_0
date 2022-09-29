@@ -1,0 +1,794 @@
+{
+  "data": [
+    {
+      "classScheduledDate": "2022-09-30T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:30 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 17611566,
+              "studentID": 126323,
+              "studentName": "sautoo testing",
+              "subject": "English",
+              "subjectWeek": "2-B",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611617,
+              "studentID": 126321,
+              "studentName": "Student Automation",
+              "subject": "English",
+              "subjectWeek": "2-B",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "8:00 AM-8:30 AM",
+          "students": [
+            {
+              "scheduleID": 17611591,
+              "studentID": 126323,
+              "studentName": "sautoo testing",
+              "subject": "Math",
+              "subjectWeek": "2-B",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "8:00 AM",
+              "endTime": "8:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611643,
+              "studentID": 126321,
+              "studentName": "Student Automation",
+              "subject": "Math",
+              "subjectWeek": "2-B",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "8:00 AM",
+              "endTime": "8:30 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-03T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "9:00 AM-10:00 AM",
+          "students": [
+            {
+              "scheduleID": 17611178,
+              "studentID": 126306,
+              "studentName": "Page Missing",
+              "subject": "English",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Junior Reader",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611230,
+              "studentID": 126306,
+              "studentName": "Page Missing",
+              "subject": "Math",
+              "subjectWeek": "22-V",
+              "subjectLevel": "Level 2",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-04T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "9:00 AM-10:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612452,
+              "studentID": 126326,
+              "studentName": "page resolution",
+              "subject": "English",
+              "subjectWeek": "2-B",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612504,
+              "studentID": 126327,
+              "studentName": "pagee resolution",
+              "subject": "English",
+              "subjectWeek": "2-B",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612477,
+              "studentID": 126326,
+              "studentName": "page resolution",
+              "subject": "Math",
+              "subjectWeek": "2-B",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612529,
+              "studentID": 126327,
+              "studentName": "pagee resolution",
+              "subject": "Math",
+              "subjectWeek": "2-B",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-05T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-7:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612568,
+              "studentID": 126330,
+              "studentName": "sautoten testing",
+              "subject": "English",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Level G1",
+              "startTime": "6:00 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612592,
+              "studentID": 126330,
+              "studentName": "sautoten testing",
+              "subject": "Math",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Level 2",
+              "startTime": "7:00 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-07T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:30 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 17611565,
+              "studentID": 126323,
+              "studentName": "sautoo testing",
+              "subject": "English",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611616,
+              "studentID": 126321,
+              "studentName": "Student Automation",
+              "subject": "English",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "8:00 AM-8:30 AM",
+          "students": [
+            {
+              "scheduleID": 17611590,
+              "studentID": 126323,
+              "studentName": "sautoo testing",
+              "subject": "Math",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "8:00 AM",
+              "endTime": "8:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611642,
+              "studentID": 126321,
+              "studentName": "Student Automation",
+              "subject": "Math",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "8:00 AM",
+              "endTime": "8:30 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-10T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "9:00 AM-10:00 AM",
+          "students": [
+            {
+              "scheduleID": 17611179,
+              "studentID": 126306,
+              "studentName": "Page Missing",
+              "subject": "English",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Junior Reader",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611229,
+              "studentID": 126306,
+              "studentName": "Page Missing",
+              "subject": "Math",
+              "subjectWeek": "23-W",
+              "subjectLevel": "Level 2",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-11T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "9:00 AM-10:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612451,
+              "studentID": 126326,
+              "studentName": "page resolution",
+              "subject": "English",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612503,
+              "studentID": 126327,
+              "studentName": "pagee resolution",
+              "subject": "English",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612476,
+              "studentID": 126326,
+              "studentName": "page resolution",
+              "subject": "Math",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612528,
+              "studentID": 126327,
+              "studentName": "pagee resolution",
+              "subject": "Math",
+              "subjectWeek": "3-C",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-12T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-7:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612567,
+              "studentID": 126330,
+              "studentName": "sautoten testing",
+              "subject": "English",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Level G1",
+              "startTime": "6:00 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612591,
+              "studentID": 126330,
+              "studentName": "sautoten testing",
+              "subject": "Math",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Level 2",
+              "startTime": "7:00 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-14T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:30 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 17611564,
+              "studentID": 126323,
+              "studentName": "sautoo testing",
+              "subject": "English",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611615,
+              "studentID": 126321,
+              "studentName": "Student Automation",
+              "subject": "English",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "8:00 AM-8:30 AM",
+          "students": [
+            {
+              "scheduleID": 17611589,
+              "studentID": 126323,
+              "studentName": "sautoo testing",
+              "subject": "Math",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "8:00 AM",
+              "endTime": "8:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611641,
+              "studentID": 126321,
+              "studentName": "Student Automation",
+              "subject": "Math",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "8:00 AM",
+              "endTime": "8:30 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-17T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "9:00 AM-10:00 AM",
+          "students": [
+            {
+              "scheduleID": 17611180,
+              "studentID": 126306,
+              "studentName": "Page Missing",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Junior Reader",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611228,
+              "studentID": 126306,
+              "studentName": "Page Missing",
+              "subject": "Math",
+              "subjectWeek": "24-X",
+              "subjectLevel": "Level 2",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-18T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "9:00 AM-10:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612450,
+              "studentID": 126326,
+              "studentName": "page resolution",
+              "subject": "English",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612502,
+              "studentID": 126327,
+              "studentName": "pagee resolution",
+              "subject": "English",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612475,
+              "studentID": 126326,
+              "studentName": "page resolution",
+              "subject": "Math",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612527,
+              "studentID": 126327,
+              "studentName": "pagee resolution",
+              "subject": "Math",
+              "subjectWeek": "4-D",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-19T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-7:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612566,
+              "studentID": 126330,
+              "studentName": "sautoten testing",
+              "subject": "English",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Level G1",
+              "startTime": "6:00 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612590,
+              "studentID": 126330,
+              "studentName": "sautoten testing",
+              "subject": "Math",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Level 2",
+              "startTime": "7:00 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-21T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:30 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 17611563,
+              "studentID": 126323,
+              "studentName": "sautoo testing",
+              "subject": "English",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611614,
+              "studentID": 126321,
+              "studentName": "Student Automation",
+              "subject": "English",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "8:00 AM-8:30 AM",
+          "students": [
+            {
+              "scheduleID": 17611588,
+              "studentID": 126323,
+              "studentName": "sautoo testing",
+              "subject": "Math",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "8:00 AM",
+              "endTime": "8:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611640,
+              "studentID": 126321,
+              "studentName": "Student Automation",
+              "subject": "Math",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "8:00 AM",
+              "endTime": "8:30 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-24T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "9:00 AM-10:00 AM",
+          "students": [
+            {
+              "scheduleID": 17611181,
+              "studentID": 126306,
+              "studentName": "Page Missing",
+              "subject": "English",
+              "subjectWeek": "8-H",
+              "subjectLevel": "Junior Reader",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611227,
+              "studentID": 126306,
+              "studentName": "Page Missing",
+              "subject": "Math",
+              "subjectWeek": "25-Y",
+              "subjectLevel": "Level 2",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-25T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "9:00 AM-10:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612449,
+              "studentID": 126326,
+              "studentName": "page resolution",
+              "subject": "English",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612501,
+              "studentID": 126327,
+              "studentName": "pagee resolution",
+              "subject": "English",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "9:00 AM",
+              "endTime": "9:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612474,
+              "studentID": 126326,
+              "studentName": "page resolution",
+              "subject": "Math",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17612526,
+              "studentID": 126327,
+              "studentName": "pagee resolution",
+              "subject": "Math",
+              "subjectWeek": "5-E",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "9:30 AM",
+              "endTime": "10:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-26T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "6:00 AM-7:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612565,
+              "studentID": 126330,
+              "studentName": "sautoten testing",
+              "subject": "English",
+              "subjectWeek": "7-G",
+              "subjectLevel": "Level G1",
+              "startTime": "6:00 AM",
+              "endTime": "7:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "7:00 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 17612589,
+              "studentID": 126330,
+              "studentName": "sautoten testing",
+              "subject": "Math",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Level 2",
+              "startTime": "7:00 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classScheduledDate": "2022-10-28T00:00:00",
+      "time30DaysList": [
+        {
+          "time": "7:30 AM-8:00 AM",
+          "students": [
+            {
+              "scheduleID": 17611562,
+              "studentID": 126323,
+              "studentName": "sautoo testing",
+              "subject": "English",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611613,
+              "studentID": 126321,
+              "studentName": "Student Automation",
+              "subject": "English",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "7:30 AM",
+              "endTime": "8:00 AM",
+              "test": false
+            }
+          ]
+        },
+        {
+          "time": "8:00 AM-8:30 AM",
+          "students": [
+            {
+              "scheduleID": 17611587,
+              "studentID": 126323,
+              "studentName": "sautoo testing",
+              "subject": "Math",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Senior Baby Genius",
+              "startTime": "8:00 AM",
+              "endTime": "8:30 AM",
+              "test": false
+            },
+            {
+              "scheduleID": 17611639,
+              "studentID": 126321,
+              "studentName": "Student Automation",
+              "subject": "Math",
+              "subjectWeek": "6-F",
+              "subjectLevel": "Junior Baby Genius",
+              "startTime": "8:00 AM",
+              "endTime": "8:30 AM",
+              "test": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}

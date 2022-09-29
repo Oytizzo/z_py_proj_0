@@ -1,0 +1,31 @@
+{
+  "data": {
+    "classScheduledDate": "2022-09-15T00:00:00",
+    "teacher": "ATeacher",
+    "teacherID": 1741,
+    "roomID": "108_091520220400",
+    "upcomingClasses": [
+      {
+        "scheduleID": 17610591,
+        "subject": "English",
+        "subjectWeek": "[]",
+        "subjectLevel": "Level G1",
+        "startTime": "4:00 AM",
+        "endTime": "4:30 AM",
+        "test": false
+      },
+      {
+        "scheduleID": 17605225,
+        "subject": "Math",
+        "subjectWeek": "14-N",
+        "subjectLevel": "Level 3",
+        "startTime": "4:30 AM",
+        "endTime": "5:00 AM",
+        "test": false
+      }
+    ]
+  },
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}

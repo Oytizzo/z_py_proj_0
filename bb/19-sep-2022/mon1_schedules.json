@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "studentName": "mon1 testing",
+      "teacherID": 1741,
+      "teacher": "ATeacher",
+      "classScheduledDate": "2022-09-19T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17605734,
+          "subject": "English",
+          "subjectWeek": "5-E",
+          "subjectLevel": "Level G1",
+          "startTime": "7:00 AM",
+          "endTime": "7:30 AM",
+          "test": false
+        },
+        {
+          "scheduleID": 17605757,
+          "subject": "Math",
+          "subjectWeek": "7-G",
+          "subjectLevel": "Level 0A",
+          "startTime": "7:30 AM",
+          "endTime": "8:00 AM",
+          "test": false
+        }
+      ]
+    },
+    {
+      "studentName": "mon1 testing",
+      "teacherID": 1741,
+      "teacher": "ATeacher",
+      "classScheduledDate": "2022-09-26T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17605733,
+          "subject": "English",
+          "subjectWeek": "6-F",
+          "subjectLevel": "Level G1",
+          "startTime": "7:00 AM",
+          "endTime": "7:30 AM",
+          "test": false
+        },
+        {
+          "scheduleID": 17605756,
+          "subject": "Math",
+          "subjectWeek": "8-H",
+          "subjectLevel": "Level 0A",
+          "startTime": "7:30 AM",
+          "endTime": "8:00 AM",
+          "test": false
+        }
+      ]
+    },
+    {
+      "studentName": "mon1 testing",
+      "teacherID": 1741,
+      "teacher": "ATeacher",
+      "classScheduledDate": "2022-10-03T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17605732,
+          "subject": "English",
+          "subjectWeek": "7-G",
+          "subjectLevel": "Level G1",
+          "startTime": "7:00 AM",
+          "endTime": "7:30 AM",
+          "test": false
+        },
+        {
+          "scheduleID": 17605755,
+          "subject": "Math",
+          "subjectWeek": "9-I",
+          "subjectLevel": "Level 0A",
+          "startTime": "7:30 AM",
+          "endTime": "8:00 AM",
+          "test": true
+        }
+      ]
+    },
+    {
+      "studentName": "mon1 testing",
+      "teacherID": 1741,
+      "teacher": "ATeacher",
+      "classScheduledDate": "2022-10-10T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17605731,
+          "subject": "English",
+          "subjectWeek": "8-H",
+          "subjectLevel": "Level G1",
+          "startTime": "7:00 AM",
+          "endTime": "7:30 AM",
+          "test": false
+        },
+        {
+          "scheduleID": 17605754,
+          "subject": "Math",
+          "subjectWeek": "10-J",
+          "subjectLevel": "Level 0A",
+          "startTime": "7:30 AM",
+          "endTime": "8:00 AM",
+          "test": false
+        }
+      ]
+    },
+    {
+      "studentName": "mon1 testing",
+      "teacherID": 1741,
+      "teacher": "ATeacher",
+      "classScheduledDate": "2022-10-17T00:00:00",
+      "studyContent": [
+        {
+          "scheduleID": 17605730,
+          "subject": "English",
+          "subjectWeek": "9-I",
+          "subjectLevel": "Level G1",
+          "startTime": "7:00 AM",
+          "endTime": "7:30 AM",
+          "test": true
+        },
+        {
+          "scheduleID": 17605753,
+          "subject": "Math",
+          "subjectWeek": "11-K",
+          "subjectLevel": "Level 0A",
+          "startTime": "7:30 AM",
+          "endTime": "8:00 AM",
+          "test": false
+        }
+      ]
+    }
+  ],
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}

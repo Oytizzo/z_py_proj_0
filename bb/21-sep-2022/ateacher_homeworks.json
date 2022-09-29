@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "classScheduledDate": "2022-09-07T00:00:00",
+      "studentID": 126265,
+      "studentName": "wed2 testing",
+      "scheduleID": 17604925,
+      "subject": "English",
+      "subjectWeek": "5-E",
+      "subjectLevel": "Level K1",
+      "startTime": "7:00 AM",
+      "endTime": "7:30 AM",
+      "test": false
+    },
+    {
+      "classScheduledDate": "2022-09-02T00:00:00",
+      "studentID": 126291,
+      "studentName": "SSiva Sai",
+      "scheduleID": 17606993,
+      "subject": "English",
+      "subjectWeek": "4-D",
+      "subjectLevel": "Junior Reader",
+      "startTime": "8:30 AM",
+      "endTime": "9:00 AM",
+      "test": false
+    },
+    {
+      "classScheduledDate": "2022-09-02T00:00:00",
+      "studentID": 126294,
+      "studentName": "SStu Test",
+      "scheduleID": 17607076,
+      "subject": "Math",
+      "subjectWeek": "2-B",
+      "subjectLevel": "Level 1",
+      "startTime": "12:30 PM",
+      "endTime": "1:00 PM",
+      "test": false
+    },
+    {
+      "classScheduledDate": "2022-09-02T00:00:00",
+      "studentID": 126264,
+      "studentName": "wed1 testing",
+      "scheduleID": 17607106,
+      "subject": "English",
+      "subjectWeek": "3-C",
+      "subjectLevel": "Level F1",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
+      "test": false
+    },
+    {
+      "classScheduledDate": "2022-09-07T00:00:00",
+      "studentID": 126264,
+      "studentName": "wed1 testing",
+      "scheduleID": 17609567,
+      "subject": "English",
+      "subjectWeek": "2-B",
+      "subjectLevel": "Level F1",
+      "startTime": "7:00 AM",
+      "endTime": "7:30 AM",
+      "test": false
+    }
+  ],
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}

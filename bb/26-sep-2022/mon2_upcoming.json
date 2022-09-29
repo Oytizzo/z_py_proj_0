@@ -1,0 +1,22 @@
+{
+  "data": {
+    "classScheduledDate": "2022-09-26T00:00:00",
+    "teacher": "ATeacher",
+    "teacherID": 1741,
+    "roomID": "108_092620220700",
+    "upcomingClasses": [
+      {
+        "scheduleID": 17605782,
+        "subject": "English",
+        "subjectWeek": "7-G",
+        "subjectLevel": "Senior Reader",
+        "startTime": "7:00 AM",
+        "endTime": "7:30 AM",
+        "test": false
+      }
+    ]
+  },
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}
