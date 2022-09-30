@@ -1,0 +1,93 @@
+{
+  "data": {
+    "teacher": "TAutomation",
+    "teacherID": 1740,
+    "roomID": "107_093020220730",
+    "lstTeacherUpcomingLiveClass": [
+      {
+        "classScheduledDate": "2022-09-30T00:00:00",
+        "time": "7:30 AM",
+        "students": [
+          {
+            "studentName": "Student Automation",
+            "studentID": 126321,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 17611617,
+                "subject": "English",
+                "subjectWeek": "2-B",
+                "subjectLevel": "Junior Baby Genius",
+                "startTime": "7:30 AM",
+                "endTime": "8:00 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 17611643,
+                "subject": "Math",
+                "subjectWeek": "2-B",
+                "subjectLevel": "Junior Baby Genius",
+                "startTime": "8:00 AM",
+                "endTime": "8:30 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "sautoo testing",
+            "studentID": 126323,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 17611566,
+                "subject": "English",
+                "subjectWeek": "2-B",
+                "subjectLevel": "Senior Baby Genius",
+                "startTime": "7:30 AM",
+                "endTime": "8:00 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 17611591,
+                "subject": "Math",
+                "subjectWeek": "2-B",
+                "subjectLevel": "Senior Baby Genius",
+                "startTime": "8:00 AM",
+                "endTime": "8:30 AM",
+                "test": false
+              }
+            ]
+          },
+          {
+            "studentName": "sautoten testing",
+            "studentID": 126330,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 17613550,
+                "subject": "English",
+                "subjectWeek": "3-C",
+                "subjectLevel": "Level G1",
+                "startTime": "7:30 AM",
+                "endTime": "8:00 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 17613600,
+                "subject": "Math",
+                "subjectWeek": "2-B",
+                "subjectLevel": "Level 2",
+                "startTime": "8:00 AM",
+                "endTime": "8:30 AM",
+                "test": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}

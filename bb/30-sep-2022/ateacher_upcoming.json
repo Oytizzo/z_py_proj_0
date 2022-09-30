@@ -1,0 +1,43 @@
+{
+  "data": {
+    "teacher": "ATeacher",
+    "teacherID": 1741,
+    "roomID": "108_093020220730",
+    "lstTeacherUpcomingLiveClass": [
+      {
+        "classScheduledDate": "2022-09-30T00:00:00",
+        "time": "7:30 AM",
+        "students": [
+          {
+            "studentName": "sautoten testing",
+            "studentID": 126330,
+            "gender": "Male",
+            "studyContent": [
+              {
+                "scheduleID": 17613550,
+                "subject": "English",
+                "subjectWeek": "3-C",
+                "subjectLevel": "Level G1",
+                "startTime": "7:30 AM",
+                "endTime": "8:00 AM",
+                "test": false
+              },
+              {
+                "scheduleID": 17613600,
+                "subject": "Math",
+                "subjectWeek": "2-B",
+                "subjectLevel": "Level 2",
+                "startTime": "8:00 AM",
+                "endTime": "8:30 AM",
+                "test": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "status": "ok",
+  "message": null,
+  "errorCode": null
+}
