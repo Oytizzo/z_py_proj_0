@@ -1,0 +1,194 @@
+[
+   {
+      "server_version":"8.0.0",
+      "run_id":"debug_oytizzo_3e826644-b_waXGY",
+      "objective":"",
+      "project_id":"PROJ-17",
+      "team_id":2,
+      "test_cases":[
+         {
+            "testcase_no":"TEST-0608",
+            "title":"login scenario zeuz - 2022-12-19 11:19:53.781803",
+            "automatability":"Automated",
+            "debug_steps":[
+
+            ],
+            "attachments":[
+
+            ],
+            "steps":[
+               {
+                  "step_id":523,
+                  "step_name":"go to demo website zeuz",
+                  "step_sequence":1,
+                  "step_driver_type":"Built_In_Driver",
+                  "automatablity":"automated",
+                  "always_run":false,
+                  "run_on_fail":false,
+                  "step_function":"Sequential Actions",
+                  "step_driver":"Built_In_Driver",
+                  "type":"normal",
+                  "attachments":[
+
+                  ],
+                  "verify_point":false,
+                  "continue_on_fail":true,
+                  "step_time":59,
+                  "actions":[
+                     {
+                        "action_name":"27322",
+                        "action_disabled":false,
+                        "step_actions":[
+                           [
+                              "go to link",
+                              "selenium action",
+                              "https://demo.zeuz.ai/web/level/one/scenerios/login"
+                           ]
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "step_id":524,
+                  "step_name":"Enter credentials zeuz",
+                  "step_sequence":2,
+                  "step_driver_type":"Built_In_Driver",
+                  "automatablity":"automated",
+                  "always_run":false,
+                  "run_on_fail":false,
+                  "step_function":"Sequential Actions",
+                  "step_driver":"Built_In_Driver",
+                  "type":"normal",
+                  "attachments":[
+
+                  ],
+                  "verify_point":false,
+                  "continue_on_fail":true,
+                  "step_time":59,
+                  "actions":[
+                     {
+                        "action_name":"30906",
+                        "action_disabled":false,
+                        "step_actions":[
+                           [
+                              "id",
+                              "element parameter",
+                              "username_id"
+                           ],
+                           [
+                              "text",
+                              "selenium action",
+                              "zeuzTest"
+                           ]
+                        ]
+                     },
+                     {
+                        "action_name":"30907",
+                        "action_disabled":false,
+                        "step_actions":[
+                           [
+                              "id",
+                              "element parameter",
+                              "password_id"
+                           ],
+                           [
+                              "text",
+                              "selenium action",
+                              "zeuzPass"
+                           ]
+                        ]
+                     },
+                     {
+                        "action_name":"30907",
+                        "action_disabled":false,
+                        "step_actions":[
+                           [
+                              "type",
+                              "element parameter",
+                              "submit"
+                           ],
+                           [
+                              "click",
+                              "selenium action",
+                              "click"
+                           ]
+                        ]
+                     }
+                  ]
+               },
+               {
+                  "step_id":525,
+                  "step_name":"Validate the success dry run",
+                  "step_sequence":3,
+                  "step_driver_type":"Built_In_Driver",
+                  "automatablity":"automated",
+                  "always_run":false,
+                  "run_on_fail":false,
+                  "step_function":"Sequential Actions",
+                  "step_driver":"Built_In_Driver",
+                  "type":"normal",
+                  "attachments":[
+
+                  ],
+                  "verify_point":true,
+                  "continue_on_fail":true,
+                  "step_time":59,
+                  "actions":[
+                     {
+                        "action_name":"30908",
+                        "action_disabled":false,
+                        "step_actions":[
+                           [
+                              "id",
+                              "element parameter",
+                              "text_showing"
+                           ],
+                           [
+                              "validate partial text",
+                              "selenium action",
+                              "Success"
+                           ]
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "dependency_list":{
+         "Browser":"iOS",
+         "Mobile":"iOS Simulator"
+      },
+      "device_info":[
+         [
+            1,
+            1
+         ]
+      ],
+      "run_time":{
+
+      },
+      "file_name":"oytizzo_3e826644-b_1",
+      "runtime_settings":{
+         "debug_mode":true,
+         "is_linked":false,
+         "local_run":false,
+         "rerun_on_fail":false,
+         "take_screenshot":false,
+         "threading":false,
+         "upload_log_file_only_for_fail":false,
+         "window_size_x":0,
+         "window_size_y":0
+      },
+      "debug":"yes",
+      "debug_clean":"YES",
+      "debug_step_actions":[
+
+      ],
+      "debug_steps":[
+         "1",
+         "2",
+         "3"
+      ]
+   }
+]
