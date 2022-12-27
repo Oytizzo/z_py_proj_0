@@ -1,0 +1,46 @@
+{
+  "web": {
+    "local": [],
+    "browser_stack": [],
+    "aws": []
+  },
+  "mobile": {
+    "local": {
+      "app":"bs://c700ce60cf13ae8ed97705a55b8e022f13c5827c",
+      "appiumVersion":"2.0.0",
+      "debug":"true",
+      "networkLogs":"true",
+      "environments": [
+        {
+          "platformName":"ios",
+          "platformVersion":"16",
+          "deviceName":"iPhone 14 Pro Max"
+        },
+        {
+          "platformName":"ios",
+          "platformVersion":"15",
+          "deviceName":"iPhone 14 Pro"
+        }
+      ]
+    },
+    "browser_stack": {
+      "app":"bs://c700ce60cf13ae8ed97705a55b8e022f13c5827c",
+      "appiumVersion":"2.0.0",
+      "debug":"true",
+      "networkLogs":"true",
+      "environments": [
+        {
+          "platformName":"ios",
+          "platformVersion":"16",
+          "deviceName":"iPhone 14 Pro Max"
+        },
+        {
+          "platformName":"ios",
+          "platformVersion":"15",
+          "deviceName":"iPhone 14 Pro"
+        }
+      ]
+    },
+    "aws": {}
+  }
+}
