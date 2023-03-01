@@ -1,0 +1,757 @@
+{
+  "data": [
+    {
+      "scheduleID": 3001184,
+      "studentID": 20,
+      "studentName": "stuF test",
+      "subject": "English",
+      "subjectWeek": "9-I",
+      "subjectLevel": "Level H1",
+      "totalPercentageScore": 50,
+      "totalPages": 40,
+      "submittedPages": 0,
+      "logId": 29,
+      "teacherComment": "He is becoming more self-reliant. He demonstrates creativity. He needs to work more slowly. He is improving his self-confidence. He demonstrates descriptive language. \nF 18-01-2022",
+      "pages": [
+        {
+          "isReadOnly": false,
+          "bookPageId": 3393,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/3fd1a9b3-51b2-41e9-8bf4-a0a5002a3ae8.jpg",
+          "status": true,
+          "pageName": "3fd1a9b3-51b2-41e9-8bf4-a0a5002a3ae8",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3394,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/7928eb27-f05d-45bd-8189-07a44b6feb8e.jpg",
+          "status": true,
+          "pageName": "7928eb27-f05d-45bd-8189-07a44b6feb8e",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3395,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/04bd5fa4-884b-4806-a0c0-d36995f2ee53.jpg",
+          "status": true,
+          "pageName": "04bd5fa4-884b-4806-a0c0-d36995f2ee53",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3396,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/ce6b7dd9-b9bc-4796-b8c1-d8fb8b848c1e.jpg",
+          "status": true,
+          "pageName": "ce6b7dd9-b9bc-4796-b8c1-d8fb8b848c1e",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3397,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/df0b1964-21d8-42d1-b601-93ddb812278c.jpg",
+          "status": true,
+          "pageName": "df0b1964-21d8-42d1-b601-93ddb812278c",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3398,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/6d1d536d-9119-49de-829c-10df2ff5cb41.jpg",
+          "status": true,
+          "pageName": "6d1d536d-9119-49de-829c-10df2ff5cb41",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3399,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/02fa4f85-2c93-4947-8738-58f8be7868bc.jpg",
+          "status": true,
+          "pageName": "02fa4f85-2c93-4947-8738-58f8be7868bc",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3400,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/158e86bc-a3e9-403e-9e3c-f20e85c5f1c5.jpg",
+          "status": true,
+          "pageName": "158e86bc-a3e9-403e-9e3c-f20e85c5f1c5",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3401,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/bdf501cc-6d7b-4413-99f9-2c1a8655c42d.jpg",
+          "status": true,
+          "pageName": "bdf501cc-6d7b-4413-99f9-2c1a8655c42d",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3402,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/c66d55cd-33ca-4ed4-8558-1f2a86d2a69e.jpg",
+          "status": true,
+          "pageName": "c66d55cd-33ca-4ed4-8558-1f2a86d2a69e",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3403,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/78f557ae-71df-4690-bd94-67e127b12e31.jpg",
+          "status": true,
+          "pageName": "78f557ae-71df-4690-bd94-67e127b12e31",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3404,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/2aaa76d0-8ad7-4bcd-9cc7-f11a17833448.jpg",
+          "status": true,
+          "pageName": "2aaa76d0-8ad7-4bcd-9cc7-f11a17833448",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3405,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/8e67b60b-3a9d-4198-8f0f-af2a0972d3e2.jpg",
+          "status": true,
+          "pageName": "8e67b60b-3a9d-4198-8f0f-af2a0972d3e2",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3406,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/7beecbc0-bc28-4cf9-b59f-1086dad8796d.jpg",
+          "status": true,
+          "pageName": "7beecbc0-bc28-4cf9-b59f-1086dad8796d",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3407,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/0942a748-07bd-44bb-9d4d-57754cf5a311.jpg",
+          "status": true,
+          "pageName": "0942a748-07bd-44bb-9d4d-57754cf5a311",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3408,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/ac32f4cf-457c-4efa-b2f1-df60f891275d.jpg",
+          "status": true,
+          "pageName": "ac32f4cf-457c-4efa-b2f1-df60f891275d",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3409,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/de32af88-4a1b-4efe-a592-02f502687dce.jpg",
+          "status": true,
+          "pageName": "de32af88-4a1b-4efe-a592-02f502687dce",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3410,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/a2199950-23f2-4580-87a6-c26df3f8d7c8.jpg",
+          "status": true,
+          "pageName": "a2199950-23f2-4580-87a6-c26df3f8d7c8",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3411,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/ed2b6f71-4d45-40c6-9191-0c5e1734d005.jpg",
+          "status": true,
+          "pageName": "ed2b6f71-4d45-40c6-9191-0c5e1734d005",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3412,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/168bd565-5843-4112-be5d-fa446ebb6c51.jpg",
+          "status": true,
+          "pageName": "168bd565-5843-4112-be5d-fa446ebb6c51",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3413,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/0f263b48-9019-476d-a8fb-9ef6fa456515.jpg",
+          "status": true,
+          "pageName": "0f263b48-9019-476d-a8fb-9ef6fa456515",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3414,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/cf61fe25-7c94-43fe-8066-38610dcaa311.jpg",
+          "status": true,
+          "pageName": "cf61fe25-7c94-43fe-8066-38610dcaa311",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3415,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/e37aba3e-f947-4219-b957-c6a3f0093145.jpg",
+          "status": true,
+          "pageName": "e37aba3e-f947-4219-b957-c6a3f0093145",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3416,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/95dd127a-1eff-4e98-a14f-90703806f94f.jpg",
+          "status": true,
+          "pageName": "95dd127a-1eff-4e98-a14f-90703806f94f",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3417,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/d941b60a-06c6-4259-ae75-b9a4b64bc307.jpg",
+          "status": true,
+          "pageName": "d941b60a-06c6-4259-ae75-b9a4b64bc307",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3418,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/176cfa3d-ef3b-425f-9f31-61e1612e1f1b.jpg",
+          "status": true,
+          "pageName": "176cfa3d-ef3b-425f-9f31-61e1612e1f1b",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3419,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/f2359200-17ba-425e-8d3b-a1e849fe78e7.jpg",
+          "status": true,
+          "pageName": "f2359200-17ba-425e-8d3b-a1e849fe78e7",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3420,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/c5654f66-37df-469e-ac9b-9811ac4b99aa.jpg",
+          "status": true,
+          "pageName": "c5654f66-37df-469e-ac9b-9811ac4b99aa",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3421,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/64804dde-703d-4f3f-9828-312dd01000f0.jpg",
+          "status": true,
+          "pageName": "64804dde-703d-4f3f-9828-312dd01000f0",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3422,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/27b8b581-da4d-4541-a360-6f34fc482027.jpg",
+          "status": true,
+          "pageName": "27b8b581-da4d-4541-a360-6f34fc482027",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3423,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/bdedcc46-1a83-4e44-84b4-c6179d12e1dc.jpg",
+          "status": true,
+          "pageName": "bdedcc46-1a83-4e44-84b4-c6179d12e1dc",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3424,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/a1f9b94f-301a-4928-a782-61b1ac49a57a.jpg",
+          "status": true,
+          "pageName": "a1f9b94f-301a-4928-a782-61b1ac49a57a",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3425,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/77f3b596-9f0d-4b8e-ad18-3df169040549.jpg",
+          "status": true,
+          "pageName": "77f3b596-9f0d-4b8e-ad18-3df169040549",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3426,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/2d8c328e-7dc4-477f-8239-7e96b29c7d8b.jpg",
+          "status": true,
+          "pageName": "2d8c328e-7dc4-477f-8239-7e96b29c7d8b",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3427,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/47baec35-2e84-4e74-a3bf-21106ab2137d.jpg",
+          "status": true,
+          "pageName": "47baec35-2e84-4e74-a3bf-21106ab2137d",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3428,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/c4b14484-bd2f-45b6-a109-5c8240d24941.jpg",
+          "status": true,
+          "pageName": "c4b14484-bd2f-45b6-a109-5c8240d24941",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3429,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/54b76db5-877f-4cfb-b8a1-33dbe0f58527.jpg",
+          "status": true,
+          "pageName": "54b76db5-877f-4cfb-b8a1-33dbe0f58527",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3430,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/5c1e2498-e905-4005-84fe-b22e18e644cf.jpg",
+          "status": true,
+          "pageName": "5c1e2498-e905-4005-84fe-b22e18e644cf",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3431,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/E_H1_I/b6eb294b-2e43-40a8-b633-84ae7d8a6e74.jpg",
+          "status": true,
+          "pageName": "b6eb294b-2e43-40a8-b633-84ae7d8a6e74",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 3432,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/E_H1_I/742e240d-a8b6-4ce8-abd6-5bacc66c97e3.jpg",
+          "status": true,
+          "pageName": "742e240d-a8b6-4ce8-abd6-5bacc66c97e3",
+          "canSubmit": false
+        }
+      ]
+    },
+    {
+      "scheduleID": 3001202,
+      "studentID": 20,
+      "studentName": "stuF test",
+      "subject": "Math",
+      "subjectWeek": "7-G",
+      "subjectLevel": "Level 7",
+      "totalPercentageScore": 52,
+      "totalPages": 40,
+      "submittedPages": 0,
+      "logId": 30,
+      "teacherComment": "He is becoming more self-reliant. He demonstrates creativity. He needs to work more slowly. He is improving his self-confidence. He demonstrates descriptive language. \nF 18-01-2022",
+      "pages": [
+        {
+          "isReadOnly": false,
+          "bookPageId": 7769,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/744924d6-9c35-4805-bede-e76c9d3e7659.jpg",
+          "status": true,
+          "pageName": "744924d6-9c35-4805-bede-e76c9d3e7659",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7770,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/572dab79-6e13-470f-966c-ee92b36c395f.jpg",
+          "status": true,
+          "pageName": "572dab79-6e13-470f-966c-ee92b36c395f",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7771,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/96e1c48d-16d7-4648-81cb-1f1aa6c8021e.jpg",
+          "status": true,
+          "pageName": "96e1c48d-16d7-4648-81cb-1f1aa6c8021e",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7772,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/8c4543d7-e4cc-4689-917f-a2559a9d6f22.jpg",
+          "status": true,
+          "pageName": "8c4543d7-e4cc-4689-917f-a2559a9d6f22",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7773,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/5bc5f638-d07d-42a9-9c15-efdc0243a7b4.jpg",
+          "status": true,
+          "pageName": "5bc5f638-d07d-42a9-9c15-efdc0243a7b4",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7774,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/96818ea0-6ff3-45a5-acbc-d724d0977a7f.jpg",
+          "status": true,
+          "pageName": "96818ea0-6ff3-45a5-acbc-d724d0977a7f",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7775,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/fbedf0ef-9552-4a02-a084-03e4867155e6.jpg",
+          "status": true,
+          "pageName": "fbedf0ef-9552-4a02-a084-03e4867155e6",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7776,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/5f1b46a7-c348-40c3-829a-641dd3a83a58.jpg",
+          "status": true,
+          "pageName": "5f1b46a7-c348-40c3-829a-641dd3a83a58",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7777,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/cdfe481b-7655-4e1d-b0bf-88b74b5cc6d0.jpg",
+          "status": true,
+          "pageName": "cdfe481b-7655-4e1d-b0bf-88b74b5cc6d0",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7778,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/e1ad6b9d-6f1f-4b1f-a392-a752219fc29b.jpg",
+          "status": true,
+          "pageName": "e1ad6b9d-6f1f-4b1f-a392-a752219fc29b",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7779,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/ff3b861d-e757-44f5-bca6-d1bbcbe64c06.jpg",
+          "status": true,
+          "pageName": "ff3b861d-e757-44f5-bca6-d1bbcbe64c06",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7780,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/ab5e133c-41b3-45f7-9ece-fb1edf18984d.jpg",
+          "status": true,
+          "pageName": "ab5e133c-41b3-45f7-9ece-fb1edf18984d",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7781,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/f094ea46-de8c-4874-9013-c0a0249b0397.jpg",
+          "status": true,
+          "pageName": "f094ea46-de8c-4874-9013-c0a0249b0397",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7782,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/2/20/M_7_G/dd5d76c3-4792-4f6c-9e6f-6cce3e400523.jpg",
+          "status": true,
+          "pageName": "dd5d76c3-4792-4f6c-9e6f-6cce3e400523",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7783,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/781715fe-95b0-4b0c-b30f-567ce49f80c3.jpg",
+          "status": true,
+          "pageName": "781715fe-95b0-4b0c-b30f-567ce49f80c3",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7784,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/6bbb0bcf-9dbf-4b43-81a9-8f76b09631ba.jpg",
+          "status": true,
+          "pageName": "6bbb0bcf-9dbf-4b43-81a9-8f76b09631ba",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7785,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/340abc88-6c1b-4047-a39a-18a1b05330a1.jpg",
+          "status": true,
+          "pageName": "340abc88-6c1b-4047-a39a-18a1b05330a1",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7786,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/5a231208-79a1-4632-80a2-e56adc396f37.jpg",
+          "status": true,
+          "pageName": "5a231208-79a1-4632-80a2-e56adc396f37",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7787,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/04b710ac-94f2-4b95-98dd-d3d66dd838d6.jpg",
+          "status": true,
+          "pageName": "04b710ac-94f2-4b95-98dd-d3d66dd838d6",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7788,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/7429340b-b235-484a-8a67-0a8c93dd46a6.jpg",
+          "status": true,
+          "pageName": "7429340b-b235-484a-8a67-0a8c93dd46a6",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7789,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/da07499c-8e4e-45fb-ba63-e70be8b64b38.jpg",
+          "status": true,
+          "pageName": "da07499c-8e4e-45fb-ba63-e70be8b64b38",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7790,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/8061bc7a-dadf-4160-844e-56a5b5c1b43c.jpg",
+          "status": true,
+          "pageName": "8061bc7a-dadf-4160-844e-56a5b5c1b43c",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7791,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/c5a091d8-11a1-486b-be59-75c5dc76ad25.jpg",
+          "status": true,
+          "pageName": "c5a091d8-11a1-486b-be59-75c5dc76ad25",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7792,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/61ad58a8-4209-4bc5-8b04-6a2e42318e75.jpg",
+          "status": true,
+          "pageName": "61ad58a8-4209-4bc5-8b04-6a2e42318e75",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7793,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/584397bd-41a9-434c-a5b5-a5a88192f0a2.jpg",
+          "status": true,
+          "pageName": "584397bd-41a9-434c-a5b5-a5a88192f0a2",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7794,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/4536a3b7-1d13-48a4-865f-224dfae45a76.jpg",
+          "status": true,
+          "pageName": "4536a3b7-1d13-48a4-865f-224dfae45a76",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7795,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/35dae6b9-0e3d-45b1-8b75-251cc6f0a3f8.jpg",
+          "status": true,
+          "pageName": "35dae6b9-0e3d-45b1-8b75-251cc6f0a3f8",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7796,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/dd115ce5-b34f-49da-93e5-44e0b1980e34.jpg",
+          "status": true,
+          "pageName": "dd115ce5-b34f-49da-93e5-44e0b1980e34",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7797,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/a5874ad7-218c-46f3-bbc0-96edbd0cd052.jpg",
+          "status": true,
+          "pageName": "a5874ad7-218c-46f3-bbc0-96edbd0cd052",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7798,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/6f278492-3a3c-4447-90dc-7a30760fd113.jpg",
+          "status": true,
+          "pageName": "6f278492-3a3c-4447-90dc-7a30760fd113",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7799,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/60086de8-6ec3-4cf0-83e1-ce25229e9dfe.jpg",
+          "status": true,
+          "pageName": "60086de8-6ec3-4cf0-83e1-ce25229e9dfe",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7800,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/6c42ca52-283d-481a-9283-3cfb805b623c.jpg",
+          "status": true,
+          "pageName": "6c42ca52-283d-481a-9283-3cfb805b623c",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7801,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/855c732b-2e18-4574-8877-973997d9c191.jpg",
+          "status": true,
+          "pageName": "855c732b-2e18-4574-8877-973997d9c191",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7802,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/5e9483de-5b62-487e-a8ae-fe53533792f5.jpg",
+          "status": true,
+          "pageName": "5e9483de-5b62-487e-a8ae-fe53533792f5",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7803,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/bc10135c-ef76-490d-8d0e-c8379d6bc4d5.jpg",
+          "status": true,
+          "pageName": "bc10135c-ef76-490d-8d0e-c8379d6bc4d5",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7804,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/20/20/M_7_G/83806116-f596-4a93-80a8-07a19e284b5c.jpg",
+          "status": true,
+          "pageName": "83806116-f596-4a93-80a8-07a19e284b5c",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7805,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/14dcba2d-8a27-42aa-a726-a654d0bd0884.jpg",
+          "status": true,
+          "pageName": "14dcba2d-8a27-42aa-a726-a654d0bd0884",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7806,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/c1d4fd9b-c6b3-47f7-aa23-185e9ad737bc.jpg",
+          "status": true,
+          "pageName": "c1d4fd9b-c6b3-47f7-aa23-185e9ad737bc",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7807,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/2/20/M_7_G/8a956910-287c-497c-a845-611fb5da70e7.jpg",
+          "status": true,
+          "pageName": "8a956910-287c-497c-a845-611fb5da70e7",
+          "canSubmit": false
+        },
+        {
+          "isReadOnly": false,
+          "bookPageId": 7808,
+          "pageURL": null,
+          "submittedPageURL": "https://testfiles.bestbrains.com:4443/BBDocs/Grader/673/20/M_7_G/de135ffa-28f5-47fe-8a83-026bbbfd2305.jpg",
+          "status": true,
+          "pageName": "de135ffa-28f5-47fe-8a83-026bbbfd2305",
+          "canSubmit": false
+        }
+      ]
+    }
+  ],
+  "status": "ok",
+  "message": "Success",
+  "errorCode": 200
+}
