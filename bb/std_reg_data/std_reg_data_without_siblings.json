@@ -1,0 +1,86 @@
+{
+  "StudentInfo": {
+    "CenterId": "730",
+    "photo_consent": "Yes",
+    "FirstName": "sautomation112",
+    "LastName": "testing",
+    "Dob": "12/5/2013",
+    "status": "Active",
+    "Gender": "Male",
+    "Grade": "2",
+    "SchoolYear": "2023",
+    "ReasonForJoining": "Enhancements",
+    "DateOfJoining": "04/04/2023",
+    "IsSibling": false,
+    "StudentCode": "1234",
+    "ReferredBy": "12345",
+    "OnlineClass": "Yes",
+    "Age": 10,
+    "Comments": "Automation Testing",
+    "password": "pass#2"
+  },
+  "SiblingInfo": {},
+  "Parent1Info": {
+    "Relationship": "Father",
+    "FirstName": "pautomation105",
+    "LastName": "testing",
+    "Email": "oytizzo@bestbrains.com",
+    "SecondaryPhoneType": "phone",
+    "primaryPhoneType": "cell",
+    "HomeNumber": "XXXXXXXXXX",
+    "CellNumber": "XXXXXXXXXX",
+    "Address": {
+      "Country": "USA",
+      "State": "IL",
+      "AptNumber": "A-1000",
+      "City": "Illinois",
+      "StreetAddress": "405 west side drive",
+      "ZipCode": "12345"
+    }
+  },
+  "Parent2Info": {
+    "Relationship": "Father",
+    "SecondaryPhoneType": "phone",
+    "primaryPhoneType": "cell",
+    "FirstName": "Father",
+    "LastName": "Test",
+    "Email": "oytizzo.zeuz@gmail.com",
+    "HomeNumber": "XXXXXXXXXX",
+    "CellNumber": "XXXXXXXXXX",
+    "Address": {
+      "Country": "XXXXX",
+      "State": "XXXXX",
+      "AptNumber": "XXXXX",
+      "City": "XXXXX",
+      "StreetAddress": "XXXXX",
+      "ZipCode": "XXXXX"
+    }
+  },
+  "PaymentInfo": {
+    "IsCard": true,
+    "AccountHolderName": "XXXXXXX",
+    "BankName": "XXXXX",
+    "RoutingNumber": "XXXXX",
+    "AccountNumber": "XXXXX",
+    "CreditCardNumber": "XXXXXXXXXXXXXX",
+    "ExpirationDate": "XXXXXXXX",
+    "CardHoldersName": "XXXXX",
+    "CVV": "XXX",
+    "BillingAddress": {
+        "Country": "XXXXX",
+        "State": "XXXXX",
+        "AptNumber": "XXXXX",
+        "City": "XXXXX",
+        "StreetAddress": "XXXXX",
+        "ZipCode": "XXXXX"
+    }
+  },
+  "EmailPolicy": true,
+  "WhyDidYouEnroll": "XXXXX",
+  "HowDidYouLearnAboutBestBrains": "XXXXX",
+  "Signature": {
+    "SignatureDate": "XXXXX",
+    "SignatureSignature": "XXXXX",
+    "FullName": "XXXXX"
+  }
+}
