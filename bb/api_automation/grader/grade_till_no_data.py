@@ -35,12 +35,13 @@ while True:
     response_grader_get_page_json = response_grader_get_page.json()
 
     print(f"GetPage => {response_grader_get_page_json}")
+    print("-"*50)
 
     if response_grader_get_page_json["data"] is None and \
             response_grader_get_page_json["message"] == "No data found." and \
             response_grader_get_page_json["errorCode"] == 204:
-        print("-"*50)
         print("No more page!")
+        print("-" * 50)
         break
 
     req_body_grader_submit_page = {
@@ -61,8 +62,9 @@ while True:
                                                 data=req_body_grader_submit_page,
                                                 files={"SubmittedFiles": ('image.jpg', image_data)})
     response_grader_submit_page_json = response_grader_submit_page.json()
-    print("-" * 50)
     print(f"SubmitPage => {response_grader_submit_page_json}")
+    print("-" * 50)
+
     # check the response status code
     if response_grader_submit_page.status_code == requests.codes.ok and \
             response_grader_submit_page_json["message"] == "success.":
@@ -77,4 +79,6 @@ while True:
     else:
         print('Error uploading image')
     print("="*50)
+
+print("="*50)
 # sr.Set_Shared_Variables("http_response", response_grader_submit_page_json)
